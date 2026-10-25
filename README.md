@@ -53,7 +53,7 @@ No **Dolphin**, abra a ISO por **Arquivo → Abrir**. Use só uma janela do Dolp
 
 ## Para quem quer mexer na tradução
 
-Tudo aqui foi feito com scripts próprios em Python (as ferramentas do TTEMMA nunca foram publicadas).
+Tudo aqui foi feito com scripts próprios em Python.
 
 - [`docs/COMO_GERAR.md`](docs/COMO_GERAR.md): passo a passo para extrair os discos, editar os textos e gerar as ISOs traduzidas.
 - [`docs/FORMATO.md`](docs/FORMATO.md): o que descobrimos sobre os arquivos do jogo (tabela de caracteres, blocos de texto, códigos de controle, tabela do `subscr.dat` no `main.dol`, legendas do PAL, texturas).
