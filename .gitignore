@@ -1,0 +1,48 @@
+# Nunca versionar arquivos do jogo (são da Capcom).
+# Discos e imagens de disco
+*.iso
+*.rvz
+*.gcm
+*.gcz
+*.wbfs
+*.ciso
+*.nkit.*
+*.xdelta
+*.xdelta3
+
+# Pastas de trabalho com arquivos do jogo
+originais/
+originais (PAL)/
+extraido/
+build/
+pal/extraido/
+pal/build/
+fontes/
+ferramentas/
+testes/
+estudo_dublagem/
+
+# Textos originais extraídos dos discos (inglês/espanhol etc. são da Capcom)
+textos/en/
+pal/textos/
+
+# Arquivos binários extraídos do jogo, caso apareçam soltos
+*.dat
+*.dol
+*.dsp
+*.tpl
+*.thp
+*.str
+
+# Prévias geradas a partir de texturas do jogo
+*_previa.png
+
+# Python / sistema
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Notas locais do assistente
+CLAUDE.md
