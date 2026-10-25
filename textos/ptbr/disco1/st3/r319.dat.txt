@@ -1,0 +1,38 @@
+# Arquivo: st3\r319.dat
+
+### bloco 0 (0x541A0) mensagem 0
+{0000}O fogo se apagou, mas há{0006}
+sinais de uso recente.
+
+### bloco 0 (0x541A0) mensagem 1
+{0000}Uma enorme coleção de bonecas{0006}
+de vários tipos. Estão todas{0005}{0007}desbotadas e gastas.
+
+### bloco 0 (0x541A0) mensagem 2
+{0000}A mesa está cheia de bonecas{0006}
+velhas e surradas e de velas{0005}{0007}usadas.
+
+### bloco 0 (0x541A0) mensagem 3
+{0000}Parece uma foto de família.{0006}
+Mãe e filha parecem ser{0005}{0007}bem próximas.
+
+### bloco 0 (0x541A0) mensagem 4
+{0000}Esta cama ainda está quente.
+
+### bloco 0 (0x541A0) mensagem 5
+{0000}Várias fotografias de uma{0006}
+menina, mostrando cenas{0005}{0007}da sua infância.
+
+### bloco 0 (0x541A0) mensagem 6
+{0000}Alguns barris velhos e gastos{0006}
+com o que parece ser{0005}{0007}água.
+
+### bloco 0 (0x541A0) mensagem 7
+{0000}Você destrancou.
+
+### bloco 0 (0x541A0) mensagem 8
+{0000}Há uma escada aqui.{0006}
+Subir?{0012}
+
+### bloco 0 (0x541A0) mensagem 9
+{0000}

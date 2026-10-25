@@ -1,0 +1,24 @@
+# Arquivo: st2\r213.dat
+
+### bloco 0 (0x4B220) mensagem 0
+{0000}Uma estátua danificada de uma{0006}
+deusa.
+
+### bloco 0 (0x4B220) mensagem 1
+{0000}Há um pergaminho de estilo{0006}
+oriental na parede. Mas a{0005}{0007}pintura nele é de estilo{0006}
+ocidental.
+
+### bloco 0 (0x4B220) mensagem 2
+{0000}Delete Message
+
+### bloco 0 (0x4B220) mensagem 3
+{0000}Parece que a energia não está{0006}
+ligada.
+
+### bloco 0 (0x4B220) mensagem 4
+{0000}Usar o elevador?{0006}
+{0012}
+
+### bloco 0 (0x4B220) mensagem 5
+{0000}{000D}{0004}ó

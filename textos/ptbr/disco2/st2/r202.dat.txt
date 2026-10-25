@@ -1,0 +1,5 @@
+# Arquivo: st2\r202.dat
+
+### bloco 0 (0xE8640) mensagem 0
+{0000}Um vitral.{0005}{0007}O desenho no centro{0006}
+lembra uma mulher.

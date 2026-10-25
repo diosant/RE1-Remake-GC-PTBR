@@ -1,0 +1,256 @@
+# Arquivo: st4\r411.dat
+
+### bloco 0 (0x3B120) mensagem 0
+{0000}A porta está bem fechada pela{0006}
+pressão da água. 
+
+### bloco 0 (0x3B120) mensagem 1
+{0000}A porta parece travada por{0006}
+um mecanismo de segurança.{0005}{0007}Melhor liberar o mecanismo{0006}
+de segurança primeiro.
+
+### bloco 0 (0x3B120) mensagem 2
+{0000}Há um interruptor aqui. Está{0006}
+quebrado e não funciona.
+
+### bloco 0 (0x3B120) mensagem 3
+{0000}“Cuidado! Em caso de queda no{0006}
+{0011}{0046}controle de pressão do óleo,{0005}{0007}abra a válvula #1” 
+
+### bloco 0 (0x3B120) mensagem 4
+{0000}“Cuidado! Em caso de queda no{0006}
+{0011}{0046}controle de pressão do óleo,{0005}{0007}abra a válvula #2” 
+
+### bloco 0 (0x3B120) mensagem 5
+{0000}“Cuidado! Em caso de queda no{0006}
+{0011}{0046}controle de pressão do óleo,{0005}{0007}abra a válvula #3” 
+
+### bloco 0 (0x3B120) mensagem 6
+{0000}O mecanismo de segurança do{0006}
+abrigo de pressão foi{0005}{0007}liberado.
+
+### bloco 0 (0x3B120) mensagem 7
+{0000}Há uma mensagem de erro na{0006}
+tela... Algo parece ter dado{0005}{0007}errado durante a drenagem{0006}
+da água.{0005}{0007}Há um botão para drenar a{0006}
+água.{0005}{0007}Apertar?{0006}
+{0015}{0012}
+
+### bloco 0 (0x3B120) mensagem 8
+{0000}“Erro: Não é possível retomar{0006}
+{0011}{0046}a drenagem”
+
+### bloco 0 (0x3B120) mensagem 9
+{0000}“Erro: Não é possível retomar{0006}
+{0011}{0046}a drenagem”
+
+### bloco 0 (0x3B120) mensagem 10
+{0000}“Erro: Operação do abrigo{0006}
+{0011}{0046}interrompida”{0005}{0007}“Restaure a pressão do óleo e{0006}
+{0011}{0046}libere a trava”
+
+### bloco 0 (0x3B120) mensagem 11
+{0000}“Erro: Não é possível retomar{0006}
+{0011}{0046}a drenagem”
+
+### bloco 0 (0x3B120) mensagem 12
+{0000}“Erro: Não é possível retomar{0006}
+{0011}{0046}a drenagem”
+
+### bloco 0 (0x3B120) mensagem 13
+{0000}A trava foi liberada. {0006}
+Apertar?{0015}{0012}
+
+### bloco 0 (0x3B120) mensagem 14
+{0000}A água foi totalmente{0006}
+drenada.
+
+### bloco 0 (0x3B120) mensagem 15
+{0000}A água já foi drenada.
+
+### bloco 0 (0x3B120) mensagem 16
+{0000}Um abrigo de pressão.
+
+### bloco 0 (0x3B120) mensagem 17
+{0000}Há uma alavanca de controle{0006}
+do abrigo de pressão.{0005}{0007}Mas ela não se mexe até a{0006}
+trava ser liberada.
+
+### bloco 0 (0x3B120) mensagem 18
+{0000}Há uma alavanca de controle{0006}
+do abrigo de pressão.{0005}{0007}Puxar?{0006}
+{0012}
+
+### bloco 0 (0x3B120) mensagem 19
+{0000}“Pressão do óleo perdida:{0006}
+{0011}{0046}abrigo interrompido”{0005}{0007}“Restaure a pressão do óleo e{0006}
+{0011}{0046}libere a trava”
+
+### bloco 0 (0x3B120) mensagem 20
+{0000}“Pressão do óleo perdida:{0006}
+{0011}{0046}abrigo interrompido”{0005}{0007}“Restaure a pressão do óleo e{0006}
+{0011}{0046}libere a trava”
+
+### bloco 0 (0x3B120) mensagem 21
+{0000}Há uma alavanca de controle{0006}
+do abrigo de pressão.{0005}{0007}Mas ela não se mexe até a{0006}
+trava ser liberada.
+
+### bloco 0 (0x3B120) mensagem 22
+{0000}Há uma alavanca de controle{0006}
+do abrigo de pressão.{0005}{0007}Puxar?{0006}
+{0012}
+
+### bloco 0 (0x3B120) mensagem 23
+{0000}O abrigo de pressão já foi{0006}
+abaixado. 
+
+### bloco 0 (0x3B120) mensagem 24
+{0000}O abrigo de pressão já foi{0006}
+abaixado. 
+
+### bloco 0 (0x3B120) mensagem 25
+{0000}Os controles do sistema{0006}
+principal.{0005}{0007}Tudo parece estar funcionando{0006}
+normalmente...
+
+### bloco 0 (0x3B120) mensagem 26
+{0000}O abrigo de pressão está{0006}
+trancado.{0005}{0007}Liberar a trava?{0006}
+{0015}{0012}
+
+### bloco 0 (0x3B120) mensagem 27
+{0000}A trava foi liberada.{0005}{0007}Agora você terá de operá-lo{0006}
+manualmente.
+
+### bloco 0 (0x3B120) mensagem 28
+{0000}“Erro: Operação do abrigo{0006}
+{0011}{0046}interrompida”{0005}{0007}“Restaure a pressão do óleo e{0006}
+{0011}{0046}libere a trava”
+
+### bloco 0 (0x3B120) mensagem 29
+{0000}O abrigo de pressão está{0006}
+trancado.{0005}{0007}Liberar a trava?{0006}
+{0015}{0012}
+
+### bloco 0 (0x3B120) mensagem 30
+{0000}A trava foi liberada.{0005}{0007}Agora você terá de operá-lo{0006}
+manualmente.
+
+### bloco 0 (0x3B120) mensagem 31
+{0000}A trava foi liberada.{0005}{0007}Agora você terá de operá-lo{0006}
+manualmente.
+
+### bloco 0 (0x3B120) mensagem 32
+{0000}O sistema voltou ao normal.{0005}{0007}Não é preciso mexer mais{0006}
+nele.
+
+### bloco 0 (0x3B120) mensagem 33
+{0000}Um regulador de pressão do{0006}
+óleo.{0005}{0007}Não é preciso ajustar a{0006}
+pressão agora.
+
+### bloco 0 (0x3B120) mensagem 34
+{0000}Um regulador de pressão do{0006}
+óleo.{0005}{0007}Não é preciso ajustar a{0006}
+pressão agora.
+
+### bloco 0 (0x3B120) mensagem 35
+{0000}Um regulador de pressão do{0006}
+óleo.{0005}{0007}Não é preciso ajustar a{0006}
+pressão agora.
+
+### bloco 0 (0x3B120) mensagem 36
+{0000}Estes botões controlam as{0006}
+válvulas de pressão do óleo.{0005}{0007}Apertar qual botão?{0006}
+{0015}{0004}Nenhum  {0004}#1  {0004}#2  {0004}#3{0005}
+
+### bloco 0 (0x3B120) mensagem 37
+{0000}Nada aconteceu.
+
+### bloco 0 (0x3B120) mensagem 38
+{0000}Um regulador de pressão do{0006}
+óleo.{0005}{0007}A pressão já foi{0006}
+restabelecida.
+
+### bloco 0 (0x3B120) mensagem 39
+{0000}Um regulador de pressão do{0006}
+óleo.{0005}{0007}A pressão já foi{0006}
+restabelecida.
+
+### bloco 0 (0x3B120) mensagem 40
+{0000}Um regulador de pressão do{0006}
+óleo.{0005}{0007}A pressão já foi{0006}
+restabelecida.
+
+### bloco 0 (0x3B120) mensagem 41
+{0000}Um regulador de pressão do{0006}
+óleo.{0005}{0007}Não é mais preciso ajustar{0006}
+a pressão.
+
+### bloco 0 (0x3B120) mensagem 42
+{0000}A luz de alerta indica que{0006}
+há uma emergência.
+
+### bloco 0 (0x3B120) mensagem 43
+{0000}A luz de alerta indica que{0006}
+há uma emergência.
+
+### bloco 0 (0x3B120) mensagem 44
+{0000}A luz de alerta indica que{0006}
+há uma emergência.
+
+### bloco 0 (0x3B120) mensagem 45
+{0000}A luz de alerta indica que{0006}
+há uma emergência.
+
+### bloco 0 (0x3B120) mensagem 46
+{0000}A luz de alerta indica que{0006}
+há uma emergência.
+
+### bloco 0 (0x3B120) mensagem 47
+{0000}A luz de alerta indica que{0006}
+há uma emergência.
+
+### bloco 0 (0x3B120) mensagem 48
+{0000}A luz de alerta indica que{0006}
+há uma emergência.
+
+### bloco 0 (0x3B120) mensagem 49
+{0000}Tudo parece ter voltado ao{0006}
+normal agora.
+
+### bloco 0 (0x3B120) mensagem 50
+{0000}{0002}{0000}Fonte de pressão desconhecida{0006}
+detectada. {0008}/
+
+### bloco 0 (0x3B120) mensagem 51
+{0000}{0002}{0000}Sistema de segurança ativado.{0006}
+Trancando a porta. {0008}{007C}
+
+### bloco 0 (0x3B120) mensagem 52
+{0000}
+
+### bloco 0 (0x3B120) mensagem 53
+{0000}
+
+### bloco 0 (0x3B120) mensagem 54
+{0000}
+
+### bloco 0 (0x3B120) mensagem 55
+{0000}
+
+### bloco 0 (0x3B120) mensagem 56
+{0000}
+
+### bloco 0 (0x3B120) mensagem 57
+{0000}
+
+### bloco 0 (0x3B120) mensagem 58
+{0000}
+
+### bloco 0 (0x3B120) mensagem 59
+{0000}
+
+### bloco 0 (0x3B120) mensagem 60
+{0000}CRÍTICO

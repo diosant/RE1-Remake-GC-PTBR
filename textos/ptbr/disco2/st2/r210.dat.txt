@@ -1,0 +1,18 @@
+# Arquivo: st2\r210.dat
+
+### bloco 0 (0x18020) mensagem 0
+{0000}Os barris de vinho estão{0006}
+empilhados uns sobre os outros.
+
+### bloco 0 (0x18020) mensagem 1
+{0000}Nada chama a sua atenção em{0006}
+especial.
+
+### bloco 0 (0x18020) mensagem 2
+{0000}{0008}{003C}
+
+### bloco 0 (0x18020) mensagem 3
+{0000}{0008}{003C}
+
+### bloco 0 (0x18020) mensagem 4
+{0000}{0008}{003C}

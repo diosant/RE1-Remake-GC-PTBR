@@ -1,0 +1,10 @@
+# Arquivo: st5\r510.dat
+
+### bloco 0 (0x5180) mensagem 0
+{0000}Um transmissor de senha do{0006}
+sistema de segurança. Com um{0005}{0007}disco MO, daria para enviar{0006}
+a senha ao sistema...
+
+### bloco 0 (0x5180) mensagem 1
+{0000}Enviar a senha parece ter{0006}
+destrancado{0005}{0007}alguma coisa...

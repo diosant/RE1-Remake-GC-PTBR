@@ -1,0 +1,32 @@
+# Arquivo: st5\r507.dat
+
+### bloco 0 (0xC000) mensagem 0
+{0000}A prateleira está cheia de{0006}
+antídotos variados.
+
+### bloco 0 (0xC000) mensagem 1
+{0000}Há um saco de cadáver sobre a{0006}
+cama simples.{0005}{0007}A data marcada no saco é{0006}
+bem antiga.
+
+### bloco 0 (0xC000) mensagem 2
+{0000}Vários instrumentos de{0006}
+precisão usados em cirurgia.
+
+### bloco 0 (0xC000) mensagem 3
+{0000}A mesa de cirurgia está coberta{0006}
+de sangue.{0005}{0007}Mas esse sangue não parece{0006}
+ser de uma cirurgia.
+
+### bloco 0 (0xC000) mensagem 4
+{0000}{000D}{0004}ý{0001}{000B}{0001}{0025}Está emperrada de ferrugem e{0006}
+não se mexe! 
+
+### bloco 0 (0xC000) mensagem 5
+{0000}Um transmissor de senha do{0006}
+sistema de segurança. Com um{0005}{0007}disco MO, daria para enviar{0006}
+a senha ao sistema...
+
+### bloco 0 (0xC000) mensagem 6
+{0000}Enviar a senha parece ter{0006}
+destrancado{0005}{0007}alguma coisa...

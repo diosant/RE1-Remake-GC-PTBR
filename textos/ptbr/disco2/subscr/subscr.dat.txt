@@ -1,0 +1,2770 @@
+# Arquivo: subscr\subscr.dat
+
+### bloco 0 (0x106320) mensagem 0
+{0000}Sair da tela de status 
+
+### bloco 0 (0x106320) mensagem 1
+{0000}Ver arquivos 
+
+### bloco 0 (0x106320) mensagem 2
+{0000}Ver mapa 
+
+### bloco 0 (0x106320) mensagem 3
+{0000}Ver itens 
+
+### bloco 0 (0x106320) mensagem 4
+{0000}Usar item 
+
+### bloco 0 (0x106320) mensagem 5
+{0000}Equipar arma 
+
+### bloco 0 (0x106320) mensagem 6
+{0000}Desequipar arma 
+
+### bloco 0 (0x106320) mensagem 7
+{0000}Equipar item de defesa 
+
+### bloco 0 (0x106320) mensagem 8
+{0000}Tirar item de defesa 
+
+### bloco 0 (0x106320) mensagem 9
+{0000}Examinar item 
+
+### bloco 0 (0x106320) mensagem 10
+{0000}Combinar itens 
+
+### bloco 0 (0x106320) mensagem 11
+{0000}Misturar ervas 
+
+### bloco 0 (0x106320) mensagem 12
+{0000}Carregar munição 
+
+### bloco 0 (0x106320) mensagem 13
+{0000}unused mes 
+
+### bloco 0 (0x106320) mensagem 14
+{0000}Não é preciso usar{0006}
+isto agora. 
+
+### bloco 0 (0x106320) mensagem 15
+{0000}Não dá para usar este{0006}
+item assim. 
+
+### bloco 0 (0x106320) mensagem 16
+{0000}Não dá para combinar{0006}
+estes itens. 
+
+### bloco 0 (0x106320) mensagem 17
+{0000}Colocar querosene no{0006}
+cantil de{0006}
+combustível? 
+
+### bloco 0 (0x106320) mensagem 18
+{0000}Você encheu o cantil{0006}
+com querosene. 
+
+### bloco 0 (0x106320) mensagem 19
+{0000}Não resta uma só gota{0006}
+de querosene. 
+
+### bloco 0 (0x106320) mensagem 20
+{0000}Não cabe mais nada. 
+
+### bloco 0 (0x106320) mensagem 21
+{0000}Se eu tivesse algo{0006}
+para acender isto... 
+
+### bloco 0 (0x106320) mensagem 22
+{0000}Não é preciso{0006}
+combiná-los. 
+
+### bloco 0 (0x106320) mensagem 23
+{0000}{0003}{0000}Pegar o item{0006}
+{0003}{0002}{000C}{FFFF}{0003}{0000}?
+
+### bloco 0 (0x106320) mensagem 24
+{0000}{0003}{0000}Você pegou:{0006}
+{0003}{0002}{000C}{FFFF}{0003}{0000}.
+
+### bloco 0 (0x106320) mensagem 25
+{0000}Você não consegue{0006}
+carregar mais itens. 
+
+### bloco 0 (0x106320) mensagem 26
+{0000}{0003}{0000}Colocar o item{0006}
+{0003}{0002}{000C}{FFFF}{0003}{0000}?
+
+### bloco 0 (0x106320) mensagem 27
+{0000}Trocar o item. 
+
+### bloco 0 (0x106320) mensagem 28
+{0000}Não há nada de{0006}
+estranho. 
+
+### bloco 0 (0x106320) mensagem 29
+{0000}Escolha a sua arma. 
+
+### bloco 0 (0x106320) mensagem 30
+{0000}Desequipe o seu item{0006}
+de defesa. 
+
+### bloco 0 (0x106320) mensagem 31
+{0000}Arquivos encontrados{0006}
+na mansão.{0006}
+Pasta 1 
+
+### bloco 0 (0x106320) mensagem 32
+{0000}Arquivos encontrados{0006}
+na mansão.{0006}
+Pasta 2 
+
+### bloco 0 (0x106320) mensagem 33
+{0000}Arquivos encontrados{0006}
+no Pátio e na{0006}
+Residência. 
+
+### bloco 0 (0x106320) mensagem 34
+{0000}Arquivos encontrados{0006}
+no Laboratório. 
+
+### bloco 0 (0x106320) mensagem 35
+{0000}Manual da S.T.A.R.S. 
+
+### bloco 0 (0x106320) mensagem 36
+{0000}Filme do Kenneth 
+
+### bloco 0 (0x106320) mensagem 37
+{0000}Livro da Maldição. 
+
+### bloco 0 (0x106320) mensagem 38
+{0000}Diário de Trevor 
+
+### bloco 0 (0x106320) mensagem 39
+{0000}Bilhete amassado 
+
+### bloco 0 (0x106320) mensagem 40
+{0000}Livro de botânica 
+
+### bloco 0 (0x106320) mensagem 41
+{0000}Descarte de corpos 
+
+### bloco 0 (0x106320) mensagem 42
+{0000}Diário do Zelador 
+
+### bloco 0 (0x106320) mensagem 43
+{0000}Testamento científico 
+
+### bloco 0 (0x106320) mensagem 44
+{0000}Mensagem do chefe de{0006}
+segurança 
+
+### bloco 0 (0x106320) mensagem 45
+{0000}Bilhete de suicídio 
+
+### bloco 0 (0x106320) mensagem 46
+{0000}Relatório da Planta 42 
+
+### bloco 0 (0x106320) mensagem 47
+{0000}Experimento de química{0006}
+orgânica 
+
+### bloco 0 (0x106320) mensagem 48
+{0000}Foto de família/notas
+
+### bloco 0 (0x106320) mensagem 49
+{0000}Fotografia do Barry 
+
+### bloco 0 (0x106320) mensagem 50
+{0000}Carta de pesquisador 
+
+### bloco 0 (0x106320) mensagem 51
+{0000}V-ACT 
+
+### bloco 0 (0x106320) mensagem 52
+{0000}FAX 
+
+### bloco 0 (0x106320) mensagem 53
+{0000}Normas de segurança 
+
+### bloco 0 (0x106320) mensagem 54
+{0000}Nota de observação 
+
+### bloco 0 (0x106320) mensagem 55
+{0000}Mansão Andar 3 
+
+### bloco 0 (0x106320) mensagem 56
+{0000}Mansão Andar 2 
+
+### bloco 0 (0x106320) mensagem 57
+{0000}Mansão Andar 1 
+
+### bloco 0 (0x106320) mensagem 58
+{0000}Mansão Subsolo 1 
+
+### bloco 0 (0x106320) mensagem 59
+{0000}Pátio 
+
+### bloco 0 (0x106320) mensagem 60
+{0000}Pátio Subsolo 1 
+
+### bloco 0 (0x106320) mensagem 61
+{0000}Pátio Subsolo 2 
+
+### bloco 0 (0x106320) mensagem 62
+{0000}Residência 
+
+### bloco 0 (0x106320) mensagem 63
+{0000}Anel Aquático Sub. 1 
+
+### bloco 0 (0x106320) mensagem 64
+{0000}Anel Aquático Sub. 2 
+
+### bloco 0 (0x106320) mensagem 65
+{0000}Altar Subsolo 1 
+
+### bloco 0 (0x106320) mensagem 66
+{0000}Altar Subsolo 2 
+
+### bloco 0 (0x106320) mensagem 67
+{0000}Heliporto 
+
+### bloco 0 (0x106320) mensagem 68
+{0000}Laboratório Subsolo 1 
+
+### bloco 0 (0x106320) mensagem 69
+{0000}Laboratório Subsolo 2 
+
+### bloco 0 (0x106320) mensagem 70
+{0000}Laboratório Subsolo 3 
+
+### bloco 0 (0x106320) mensagem 71
+{0000}Laboratório Subsolo 4 
+
+### bloco 0 (0x106320) mensagem 72
+{0000}Faca de combate 
+
+### bloco 0 (0x106320) mensagem 73
+{0000}Uma faca de combate{0006}
+média e leve.{0005}{0007}A faca pessoal da Jill,{0006}
+usada para combates{0006}
+de perto. 
+
+### bloco 0 (0x106320) mensagem 74
+{0000}Lâmina de liga reforçada{0006}
+com carbono, com fio{0006}
+serrilhado.{0005}{0007}Chris a usa desde os{0006}
+tempos da Força Aérea. 
+
+### bloco 0 (0x106320) mensagem 75
+{0000}Pistola 
+
+### bloco 0 (0x106320) mensagem 76
+{0000}Automática personalizada{0006}
+da S.T.A.R.S. Dispara{0006}
+balas 9mm Parabellum. 
+
+### bloco 0 (0x106320) mensagem 77
+{0000}Arma de defesa pessoal 
+
+### bloco 0 (0x106320) mensagem 78
+{0000}Uma arma de defesa{0006}
+pessoal que dispara{0006}
+balas .22 Magnum.{0005}{0007}Uma bala já foi{0006}
+disparada. 
+
+### bloco 0 (0x106320) mensagem 79
+{0000}Uma automática que{0006}
+dispara balas .40SW. 
+
+### bloco 0 (0x106320) mensagem 80
+{0000}Escopeta 
+
+### bloco 0 (0x106320) mensagem 81
+{0000}Dispara cartuchos{0006}
+calibre 12. Uma arma{0006}
+capaz de atingir uma{0005}{0007}área ampla. 
+
+### bloco 0 (0x106320) mensagem 82
+{0000}Lança-granadas 
+
+### bloco 0 (0x106320) mensagem 83
+{0000}Já está carregado com{0006}
+granadas. 
+
+### bloco 0 (0x106320) mensagem 84
+{0000}Uma arma que dispara{0006}
+granadas, granadas{0006}
+ácidas ou granadas{0005}{0007}incendiárias. 
+
+### bloco 0 (0x106320) mensagem 85
+{0000}Está carregado com{0006}
+granadas ácidas. 
+
+### bloco 0 (0x106320) mensagem 86
+{0000}Está carregado com{0006}
+granadas incendiárias. 
+
+### bloco 0 (0x106320) mensagem 87
+{0000}Lança-foguetes 
+
+### bloco 0 (0x106320) mensagem 88
+{0000}Uma arma muito{0006}
+destrutiva, que dispara{0006}
+foguetes com grande{0005}{0007}raio de explosão. 
+
+### bloco 0 (0x106320) mensagem 89
+{0000}Revólver Magnum 
+
+### bloco 0 (0x106320) mensagem 90
+{0000}Está carregado com{0006}
+balas Magnum. 
+
+### bloco 0 (0x106320) mensagem 91
+{0000}Dispara balas .357{0006}
+Magnum. Uma arma{0006}
+poderosa, mas exige{0005}{0007}habilidade no manejo. 
+
+### bloco 0 (0x106320) mensagem 92
+{0000}Lança-chamas 
+
+### bloco 0 (0x106320) mensagem 93
+{0000}Uma arma antipessoal{0006}
+que lança um jato{0006}
+de chamas. 
+
+### bloco 0 (0x106320) mensagem 94
+{0000}O combustível acabou. 
+
+### bloco 0 (0x106320) mensagem 95
+{0000}Escopeta de assalto 
+
+### bloco 0 (0x106320) mensagem 96
+{0000}Dispara cartuchos{0006}
+calibre 12. Arsenal{0006}
+especial da S.T.A.R.S.{0005}{0007}e a favorita do Richard. 
+
+### bloco 0 (0x106320) mensagem 97
+{0000}Lança-foguetes 
+
+### bloco 0 (0x106320) mensagem 98
+{0000}Dispara foguetes{0006}
+teleguiados sem parar.{0005}{0007}Extremamente{0006}
+destrutivo. 
+
+### bloco 0 (0x106320) mensagem 99
+{0000}Magnum .44 do Barry 
+
+### bloco 0 (0x106320) mensagem 100
+{0000}Dispara balas .44{0006}
+Magnum. Uma pistola{0006}
+poderosíssima, além{0005}{0007}de ser uma das{0006}
+favoritas do Barry. 
+
+### bloco 0 (0x106320) mensagem 101
+{0000}Dispara balas .44{0006}
+Magnum. Uma pistola{0006}
+poderosíssima, além{0005}{0007}de ser uma das{0006}
+favoritas do Barry. 
+
+### bloco 0 (0x106320) mensagem 102
+{0000}Granadas 
+
+### bloco 0 (0x106320) mensagem 103
+{0000}Munição para o{0006}
+lança-granadas. Cheias{0006}
+de explosivos{0005}{0007}potentes. 
+
+### bloco 0 (0x106320) mensagem 104
+{0000}Pente de pistola 
+
+### bloco 0 (0x106320) mensagem 105
+{0000}Um pente para a{0006}
+pistola. 15 balas 9mm{0006}
+Parabellum. 
+
+### bloco 0 (0x106320) mensagem 106
+{0000}Cartuchos de escopeta 
+
+### bloco 0 (0x106320) mensagem 107
+{0000}Cartuchos calibre 12{0006}
+para a escopeta, que{0006}
+espalham o disparo. 
+
+### bloco 0 (0x106320) mensagem 108
+{0000}Granadas ácidas 
+
+### bloco 0 (0x106320) mensagem 109
+{0000}Munição para o{0006}
+lança-granadas. Cheias{0006}
+de ácido sulfúrico.
+
+### bloco 0 (0x106320) mensagem 110
+{0000}Granadas incendiárias 
+
+### bloco 0 (0x106320) mensagem 111
+{0000}Munição para o{0006}
+lança-granadas. Cheias{0006}
+de um combustível{0005}{0007}especial que pega fogo{0006}
+ao atingir o alvo. 
+
+### bloco 0 (0x106320) mensagem 112
+{0000}Flecha dourada 
+
+### bloco 0 (0x106320) mensagem 113
+{0000}Parece que dá para{0006}
+tirar a ponta da flecha. 
+
+### bloco 0 (0x106320) mensagem 114
+{0000}Livro da Maldição 
+
+### bloco 0 (0x106320) mensagem 115
+{0000}O título é{0006}
+“Livro da Maldição” 
+
+### bloco 0 (0x106320) mensagem 116
+{0000}Há uma chave presa na{0006}
+contracapa.{0005}{0007}Tirar a chave? 
+
+### bloco 0 (0x106320) mensagem 117
+{0000}Você pegou:{0006}
+{0003}{0002}{000C}~{0003}{0000}.
+
+### bloco 0 (0x106320) mensagem 118
+{0000}{000E}{0006}
+{0017}{0009}{0002}{0167}{FFFF}Uma moeda com o emblema{0006}
+de uma armadura. 
+
+### bloco 0 (0x106320) mensagem 119
+{0000}Ela tomou a forma de{0006}
+uma chave. 
+
+### bloco 0 (0x106320) mensagem 120
+{0000}Coleira 
+
+### bloco 0 (0x106320) mensagem 121
+{0000}Há um botão.{0006}
+Apertar? 
+
+### bloco 0 (0x106320) mensagem 122
+{0000}Havia uma moeda{0006}
+escondida na coleira. 
+
+### bloco 0 (0x106320) mensagem 123
+{0000}Balas Magnum 
+
+### bloco 0 (0x106320) mensagem 124
+{0000}Balas potentes para o{0006}
+revólver .357{0006}
+Magnum. 
+
+### bloco 0 (0x106320) mensagem 125
+{0000}Broche 
+
+### bloco 0 (0x106320) mensagem 126
+{0000}{0009}{0001}j
+
+### bloco 0 (0x106320) mensagem 127
+{0000}Ele virou uma chave. 
+
+### bloco 0 (0x106320) mensagem 128
+{0000}Cantil de combustível 
+
+### bloco 0 (0x106320) mensagem 129
+{0000}Ainda resta um pouco{0006}
+de querosene. 
+
+### bloco 0 (0x106320) mensagem 130
+{0000}Serve para levar{0006}
+combustível e acender{0006}
+algo com o isqueiro. 
+
+### bloco 0 (0x106320) mensagem 131
+{0000}Ponta de flecha 
+
+### bloco 0 (0x106320) mensagem 132
+{0000}A ponta é feita de{0006}
+peridoto, às vezes{0006}
+chamado de esmeralda{0005}{0007}dos pobres. 
+
+### bloco 0 (0x106320) mensagem 133
+{0000}Imitação de chave 
+
+### bloco 0 (0x106320) mensagem 134
+{0000}Tem forma de chave,{0006}
+mas não é firme o{0006}
+bastante para ser usada. 
+
+### bloco 0 (0x106320) mensagem 135
+{0000}{000E}{0006}
+{001E}{0009}{0002}㎝{FFFF}Chave da galeria 
+
+### bloco 0 (0x106320) mensagem 136
+{0000}Tem a palavra{0006}
+“GALLERY” gravada. 
+
+### bloco 0 (0x106320) mensagem 137
+{0000}Cápsula de combustível 
+
+### bloco 0 (0x106320) mensagem 138
+{0000}O principal componente{0006}
+deste combustível parece{0006}
+ser um composto nitro. {0005}{0007}“{0003}{0001}Correr{0003}{0000}” com ele pode{0006}
+causar uma explosão fatal. 
+
+### bloco 0 (0x106320) mensagem 139
+{0000}{000E}{0006}
+{0020}{0009}{0002}{0168}{FFFF}Partitura incompleta 
+
+### bloco 0 (0x106320) mensagem 140
+{0000}Falta um trecho da{0006}
+música; só restam o{0006}
+começo e o fim{0005}{0007}da partitura. 
+
+### bloco 0 (0x106320) mensagem 141
+{0000}Spray de socorro 
+
+### bloco 0 (0x106320) mensagem 142
+{0000}Um spray medicinal que{0006}
+cura os ferimentos{0006}
+por completo. 
+
+### bloco 0 (0x106320) mensagem 143
+{0000}Erva verde 
+
+### bloco 0 (0x106320) mensagem 144
+{0000}Uma erva que cresce{0006}
+livre nesta região. 
+
+### bloco 0 (0x106320) mensagem 145
+{0000}Erva vermelha 
+
+### bloco 0 (0x106320) mensagem 146
+{0000}Erva azul 
+
+### bloco 0 (0x106320) mensagem 147
+{0000}Ervas misturadas 
+
+### bloco 0 (0x106320) mensagem 148
+{0000}Uma mistura de 2 ervas{0006}
+verdes. 
+
+### bloco 0 (0x106320) mensagem 149
+{0000}Uma mistura de 3 ervas{0006}
+verdes. 
+
+### bloco 0 (0x106320) mensagem 150
+{0000}Uma mistura de ervas{0006}
+verde e vermelha. 
+
+### bloco 0 (0x106320) mensagem 151
+{0000}Uma mistura de ervas{0006}
+verde, azul e vermelha. 
+
+### bloco 0 (0x106320) mensagem 152
+{0000}Uma mistura de ervas{0006}
+verde e azul. 
+
+### bloco 0 (0x106320) mensagem 153
+{0000}Uma mistura de 2 ervas{0006}
+verdes e 1 azul. 
+
+### bloco 0 (0x106320) mensagem 154
+{0000}Gazua 
+
+### bloco 0 (0x106320) mensagem 155
+{0000}Uma ferramenta para{0006}
+abrir a maioria das{0006}
+fechaduras simples. 
+
+### bloco 0 (0x106320) mensagem 156
+{0000}Chave antiga 
+
+### bloco 0 (0x106320) mensagem 157
+{0000}Uma chave antiga da{0006}
+mansão. Parece abrir a{0006}
+maioria das portas{0005}{0007}com fechaduras{0006}
+simples. 
+
+### bloco 0 (0x106320) mensagem 158
+{0000}Chave da mansão 
+
+### bloco 0 (0x106320) mensagem 159
+{0000}Chave da residência 
+
+### bloco 0 (0x106320) mensagem 160
+{0000}Chave do laboratório 
+
+### bloco 0 (0x106320) mensagem 161
+{0000}{000E}{0006}
+{002D}{0009}{0002}~{FFFF}Chave da Espada 
+
+### bloco 0 (0x106320) mensagem 162
+{0000}Tem a gravura de{0006}
+uma espada. 
+
+### bloco 0 (0x106320) mensagem 163
+{0000}{000E}{0006}
+{002E}{0009}{0002}~{FFFF}Chave da Armadura 
+
+### bloco 0 (0x106320) mensagem 164
+{0000}Tem a gravura de{0006}
+uma armadura. 
+
+### bloco 0 (0x106320) mensagem 165
+{0000}{000E}{0006}
+{002F}{0009}{0002}~{FFFF}Chave do Escudo 
+
+### bloco 0 (0x106320) mensagem 166
+{0000}Tem a gravura de{0006}
+um escudo. 
+
+### bloco 0 (0x106320) mensagem 167
+{0000}{000E}{0006}
+{0030}{0009}{0002}~{FFFF}Chave do Elmo 
+
+### bloco 0 (0x106320) mensagem 168
+{0000}Tem a gravura de{0006}
+um elmo. 
+
+### bloco 0 (0x106320) mensagem 169
+{0000}{000E}{0006}
+{0031}{0009}{0002}㎝{FFFF}Chave do quarto 001 
+
+### bloco 0 (0x106320) mensagem 170
+{0000}Tem o número 001{0006}
+gravado. 
+
+### bloco 0 (0x106320) mensagem 171
+{0000}{000E}{0006}
+{0032}{0009}{0002}㎝{FFFF}Chave do quarto 003 
+
+### bloco 0 (0x106320) mensagem 172
+{0000}Tem o número 003{0006}
+gravado. 
+
+### bloco 0 (0x106320) mensagem 173
+{0000}Medalha da Águia 
+
+### bloco 0 (0x106320) mensagem 174
+{0000}Achada dentro do Último{0006}
+Livro Vol 1. Haverá um{0006}
+jeito especial de usá-la? 
+
+### bloco 0 (0x106320) mensagem 175
+{0000}Medalha do Lobo 
+
+### bloco 0 (0x106320) mensagem 176
+{0000}Achada dentro do Último{0006}
+Livro Vol 2. Haverá um{0006}
+jeito especial de usá-la? 
+
+### bloco 0 (0x106320) mensagem 177
+{0000}Pedra e metal 
+
+### bloco 0 (0x106320) mensagem 178
+{0000}Há um emblema gravado{0006}
+no objeto octogonal. 
+
+### bloco 0 (0x106320) mensagem 179
+{0000}{000E}{0006}
+{0036}{0009}{0002}—{FFFF}Chave da área de energia
+
+### bloco 0 (0x106320) mensagem 180
+{0000}Tem um símbolo elétrico{0006}
+gravado. 
+
+### bloco 0 (0x106320) mensagem 181
+{0000}{000E}{0006}
+{0037}{0009}{0002}—{FFFF}Chave mestra 
+
+### bloco 0 (0x106320) mensagem 182
+{0000}Uma chave para abrir{0006}
+portas em situações{0006}
+de emergência. 
+
+### bloco 0 (0x106320) mensagem 183
+{0000}Brasão da Estrela 
+
+### bloco 0 (0x106320) mensagem 184
+{0000}Tem o desenho de{0006}
+uma estrela. 
+
+### bloco 0 (0x106320) mensagem 185
+{0000}A base tem um relevo{0006}
+em forma de cruz. 
+
+### bloco 0 (0x106320) mensagem 186
+{0000}Há um botão.{0006}
+Apertar? 
+
+### bloco 0 (0x106320) mensagem 187
+{0000}Brasão do Vento 
+
+### bloco 0 (0x106320) mensagem 188
+{0000}Tem o desenho do{0006}
+vento. 
+
+### bloco 0 (0x106320) mensagem 189
+{0000}Brasão do Sol 
+
+### bloco 0 (0x106320) mensagem 190
+{0000}Tem o desenho do{0006}
+sol. 
+
+### bloco 0 (0x106320) mensagem 191
+{0000}Há três linhas em{0006}
+relevo. 
+
+### bloco 0 (0x106320) mensagem 192
+{0000}Brasão da Lua 
+
+### bloco 0 (0x106320) mensagem 193
+{0000}Tem o desenho da{0006}
+lua. 
+
+### bloco 0 (0x106320) mensagem 194
+{0000}Há duas linhas em{0006}
+relevo. 
+
+### bloco 0 (0x106320) mensagem 195
+{0000}{000E}{0006}
+{003C}{0009}{0002}{0169}{FFFF}Manivela quadrada 
+
+### bloco 0 (0x106320) mensagem 196
+{0000}A ponta tem formato{0006}
+quadrado. 
+
+### bloco 0 (0x106320) mensagem 197
+{0000}{000E}{0006}
+{003D}{0009}{0002}{016A}{FFFF}Manivela hexagonal 
+
+### bloco 0 (0x106320) mensagem 198
+{0000}A ponta tem formato{0006}
+hexagonal. 
+
+### bloco 0 (0x106320) mensagem 199
+{0000}Chave do armário 
+
+### bloco 0 (0x106320) mensagem 200
+{0000}Há o perfil de uma{0006}
+mulher lindamente{0006}
+gravado em relevo{0005}{0007}na chave. 
+
+### bloco 0 (0x106320) mensagem 201
+{0000}Chave do emblema 
+
+### bloco 0 (0x106320) mensagem 202
+{0000}A chave tem o emblema{0006}
+da família Spencer,{0006}
+cuja história é tão{0005}{0007}antiga quanto Raccoon{0006}
+City. 
+
+### bloco 0 (0x106320) mensagem 203
+{0000}Anel de pedra 
+
+### bloco 0 (0x106320) mensagem 204
+{0000}Um anel octogonal{0006}
+feito de pedra. 
+
+### bloco 0 (0x106320) mensagem 205
+{0000}Objeto de metal 
+
+### bloco 0 (0x106320) mensagem 206
+{0000}Um objeto feito de{0006}
+liga metálica. Tem um{0006}
+emblema gravado. 
+
+### bloco 0 (0x106320) mensagem 207
+{0000}Faca de combate 
+
+### bloco 0 (0x106320) mensagem 208
+{0000}Uma faca de combate.{0006}
+Útil em situações{0006}
+desesperadas. 
+
+### bloco 0 (0x106320) mensagem 209
+{0000}Bateria 
+
+### bloco 0 (0x106320) mensagem 210
+{0000}Com isto, dá para{0006}
+operar o elevador. 
+
+### bloco 0 (0x106320) mensagem 211
+{0000}Fita de tinta 
+
+### bloco 0 (0x106320) mensagem 212
+{0000}Para usar numa{0006}
+máquina de escrever. 
+
+### bloco 0 (0x106320) mensagem 213
+{0000}Emblema 
+
+### bloco 0 (0x106320) mensagem 214
+{0000}As bordas estão gastas{0006}
+de tanto ser encaixado. 
+
+### bloco 0 (0x106320) mensagem 215
+{0000}Emblema dourado 
+
+### bloco 0 (0x106320) mensagem 216
+{0000}{000E}{0006}
+{0047}{0009}{0002}{FFFF}{016B}Partitura 
+
+### bloco 0 (0x106320) mensagem 217
+{0000}O título é {0006}
+“Sonata ao Luar”. 
+
+### bloco 0 (0x106320) mensagem 218
+{0000}A partitura completa{0006}
+da “Sonata ao Luar”. 
+
+### bloco 0 (0x106320) mensagem 219
+{0000}Pedra vermelha 
+
+### bloco 0 (0x106320) mensagem 220
+{0000}Lindamente lapidada e{0006}
+polida até brilhar como{0005}{0007}um espelho. 
+
+### bloco 0 (0x106320) mensagem 221
+{0000}Pedra azul 
+
+### bloco 0 (0x106320) mensagem 222
+{0000}Pedra amarela 
+
+### bloco 0 (0x106320) mensagem 223
+{0000}Escopeta quebrada 
+
+### bloco 0 (0x106320) mensagem 224
+{0000}Está quebrada e não{0006}
+dispara. Talvez sirva{0006}
+para outra coisa... 
+
+### bloco 0 (0x106320) mensagem 225
+{0000}{000E}{0006}
+{004C}{0009}{0002}{016C}{FFFF}Herbicida 
+
+### bloco 0 (0x106320) mensagem 226
+{0000}Um produto químico que{0006}
+destrói plantas. 
+
+### bloco 0 (0x106320) mensagem 227
+{0000}Isqueiro 
+
+### bloco 0 (0x106320) mensagem 228
+{0000}{000E}{0007}{0000}{0009}{0002}{016D}{FFFF}Há palavras gravadas:{0006}
+“Não brinque com fogo!{0006}
+Com amor, Jessica” 
+
+### bloco 0 (0x106320) mensagem 229
+{0000}Soro 
+
+### bloco 0 (0x106320) mensagem 230
+{0000}Há o suficiente para{0006}
+uma dose. 
+
+### bloco 0 (0x106320) mensagem 231
+{0000}Rádio transmissor 
+
+### bloco 0 (0x106320) mensagem 232
+{0000}Nunca foi usado. 
+
+### bloco 0 (0x106320) mensagem 233
+{0000}Frasco vazio 
+
+### bloco 0 (0x106320) mensagem 234
+{0000}Não há nada dentro. 
+
+### bloco 0 (0x106320) mensagem 235
+{0000}Não há nada dentro. 
+
+### bloco 0 (0x106320) mensagem 236
+{0000}Água 
+
+### bloco 0 (0x106320) mensagem 237
+{0000}Há água dentro do{0006}
+frasco. 
+
+### bloco 0 (0x106320) mensagem 238
+{0000}UMB No.3 
+
+### bloco 0 (0x106320) mensagem 239
+{0000}Com este produto dá{0006}
+para sintetizar o{0006}
+V-JOLT. 
+
+### bloco 0 (0x106320) mensagem 240
+{0000}NP-004 
+
+### bloco 0 (0x106320) mensagem 241
+{0000}Para completar a{0006}
+síntese do V-JOLT, é{0006}
+preciso combinar{0005}{0007}outro produto químico. 
+
+### bloco 0 (0x106320) mensagem 242
+{0000}Yellow-6 
+
+### bloco 0 (0x106320) mensagem 243
+{0000}UMB No.7 
+
+### bloco 0 (0x106320) mensagem 244
+{0000}UMB No.10 
+
+### bloco 0 (0x106320) mensagem 245
+{0000}VP-017 
+
+### bloco 0 (0x106320) mensagem 246
+{0000}A síntese do V-JOLT{0006}
+está quase pronta. 
+
+### bloco 0 (0x106320) mensagem 247
+{0000}V-JOLT 
+
+### bloco 0 (0x106320) mensagem 248
+{0000}Um líquido marrom{0006}
+bem característico. 
+
+### bloco 0 (0x106320) mensagem 249
+{0000}Não dá para misturar{0006}
+estes. 
+
+### bloco 0 (0x106320) mensagem 250
+{0000}A síntese do V-JOLT{0006}
+falhou! 
+
+### bloco 0 (0x106320) mensagem 251
+{0000}Está começando a soltar{0006}
+um gás tóxico! 
+
+### bloco 0 (0x106320) mensagem 252
+{0000}Não é seguro misturar{0006}
+isto aqui. 
+
+### bloco 0 (0x106320) mensagem 253
+{0000}Chris não entende de{0006}
+química o bastante{0006}
+para misturar isso.{0005}{0007}Não adianta nada{0006}
+ele levar o frasco{0006}
+vazio. 
+
+### bloco 0 (0x106320) mensagem 254
+{0000}Nunca foi usado. 
+
+### bloco 0 (0x106320) mensagem 255
+{0000}? 
+
+### bloco 0 (0x106320) mensagem 256
+{0000}{000E}{0006}
+{005A}{0009}{0002}{016E}{FFFF}Livro em branco 
+
+### bloco 0 (0x106320) mensagem 257
+{0000}Um livro de capa{0006}
+vermelha. 
+
+### bloco 0 (0x106320) mensagem 258
+{0000}Um livro de capa{0006}
+vermelha.{0005}{0007}Não há nada impresso{0006}
+nas páginas. Haverá um{0006}
+jeito especial de{0005}{0007}usá-lo? 
+
+### bloco 0 (0x106320) mensagem 259
+{0000}Último Livro Vol.1 
+
+### bloco 0 (0x106320) mensagem 260
+{0000}As palavras na capa...{0006}
+o que significam? 
+
+### bloco 0 (0x106320) mensagem 261
+{0000}Último Livro Vol.2 
+
+### bloco 0 (0x106320) mensagem 262
+{0000}As palavras na capa...{0006}
+o que significam? 
+
+### bloco 0 (0x106320) mensagem 263
+{0000}Havia uma medalha{0006}
+escondida no livro. 
+
+### bloco 0 (0x106320) mensagem 264
+{0000}Disco MO 
+
+### bloco 0 (0x106320) mensagem 265
+{0000}Parece ser um disco{0006}
+para reiniciar algum{0006}
+tipo de sistema. 
+
+### bloco 0 (0x106320) mensagem 266
+{0000}Apito de cachorro 
+
+### bloco 0 (0x106320) mensagem 267
+{0000}Ao soprá-lo, ele emite{0006}
+uma frequência que só{0006}
+os cães conseguem{0005}{0007}ouvir. Serve para{0006}
+chamar um cachorro. 
+
+### bloco 0 (0x106320) mensagem 268
+{0000}Você soprou o apito{0006}
+de cachorro. 
+
+### bloco 0 (0x106320) mensagem 269
+{0000}Unidade de fusível 
+
+### bloco 0 (0x106320) mensagem 270
+{0000}Um conjunto de vários{0006}
+fusíveis grandes, feitos{0006}
+para aguentar correntes{0005}{0007}elétricas altas. 
+
+### bloco 0 (0x106320) mensagem 271
+{0000}Cápsula 
+
+### bloco 0 (0x106320) mensagem 272
+{0000}
+
+### bloco 0 (0x106320) mensagem 273
+{0000}Porta-joias 
+
+### bloco 0 (0x106320) mensagem 274
+{0000}Você pegou: {0003}{0002}{000C}k{0003}{0000}.
+
+### bloco 0 (0x106320) mensagem 275
+{0000}Nunca foi usado. 
+
+### bloco 0 (0x106320) mensagem 276
+{0000}Inseticida 
+
+### bloco 0 (0x106320) mensagem 277
+{0000}Um spray de bomba.{0006}
+Ainda há bastante{0006}
+inseticida dentro. 
+
+### bloco 0 (0x106320) mensagem 278
+{0000}Caixa de socorro 
+
+### bloco 0 (0x106320) mensagem 279
+{0000}
+
+### bloco 0 (0x106320) mensagem 280
+{0000}Havia um spray de{0006}
+primeiros socorros{0006}
+dentro. 
+
+### bloco 0 (0x106320) mensagem 281
+{0000}Porta-joias 
+
+### bloco 0 (0x106320) mensagem 282
+{0000}Há um encaixe redondo{0006}
+com cerca de 4㎝ de{0006}
+diâmetro. 
+
+### bloco 0 (0x106320) mensagem 283
+{0000}Havia um broche{0006}
+dentro. 
+
+### bloco 0 (0x106320) mensagem 284
+{0000}Escolha uma peça. {0006}
+{000E}{0007}{000C}{0009}{0002}{FFFF}{016F}A: OK B: Sair 
+
+### bloco 0 (0x106320) mensagem 285
+{0000}Coloque a peça. {0006}
+{000E}{0007}{000C}{0009}{0002}{FFFF}{0170}A: OK B: Voltar {0006}
+{0009}{0001}{0171}{NOFIM}
+
+### bloco 0 (0x106320) mensagem 286
+{0000}Parece que não encaixa. 
+
+### bloco 0 (0x106320) mensagem 287
+{0000}Ajuste a peça. {0006}
+{000E}{0007}{000C}{0009}{0002}{FFFF}{0172}A: OK B: Voltar 
+
+### bloco 0 (0x106320) mensagem 288
+{0000}Desistir do enigma? 
+
+### bloco 0 (0x106320) mensagem 289
+{0000}Porta-joias 
+
+### bloco 0 (0x106320) mensagem 290
+{0000}Deve haver um jeito de{0006}
+abrir esta caixa. 
+
+### bloco 0 (0x106320) mensagem 291
+{0000}Há um botão.{0006}
+Apertar o{0006}
+botão? 
+
+### bloco 0 (0x106320) mensagem 292
+{0000}Nada acontece. 
+
+### bloco 0 (0x106320) mensagem 293
+{0000}Há um desenho do sol{0006}
+e da lua.{0005}{0007}Na placa está escrito:{0006}
+“A luz do sol me{0006}
+despertará.” 
+
+### bloco 0 (0x106320) mensagem 294
+{0000}Parece que você{0006}
+falhou. 
+
+### bloco 0 (0x106320) mensagem 295
+{0000}Havia uma máscara{0006}
+dentro. 
+
+### bloco 0 (0x106320) mensagem 296
+{0000}Caixa de socorro 
+
+### bloco 0 (0x106320) mensagem 297
+{0000}
+
+### bloco 0 (0x106320) mensagem 298
+{0000}Havia uma erva verde{0006}
+dentro. 
+
+### bloco 0 (0x106320) mensagem 299
+{0000}Caixa de socorro 
+
+### bloco 0 (0x106320) mensagem 300
+{0000}
+
+### bloco 0 (0x106320) mensagem 301
+{0000}Havia uma erva azul{0006}
+dentro. 
+
+### bloco 0 (0x106320) mensagem 302
+{0000}Sinalizadores 
+
+### bloco 0 (0x106320) mensagem 303
+{0000}Foguetes sinalizadores{0006}
+pirotécnicos.{0006}
+Com eles posso avisar{0005}{0007}o Brad. 
+
+### bloco 0 (0x106320) mensagem 304
+{0000}Lança-chamas quebrado 
+
+### bloco 0 (0x106320) mensagem 305
+{0000}O bico está quebrado. {0006}
+Não dá para disparar. 
+
+### bloco 0 (0x106320) mensagem 306
+{0000}Suporte de madeira 
+
+### bloco 0 (0x106320) mensagem 307
+{0000}Há um papel colado{0006}
+do lado de dentro.{0006}
+Não há nada escrito.
+
+### bloco 0 (0x106320) mensagem 308
+{0000}Há um papel colado{0006}
+do lado de dentro.{0006}
+Não há nada escrito.
+
+### bloco 0 (0x106320) mensagem 309
+{0000}Filtro de slides 
+
+### bloco 0 (0x106320) mensagem 310
+{0000}Há slides vermelhos{0006}
+dentro.{0006}
+Não há nada neles. 
+
+### bloco 0 (0x106320) mensagem 311
+{0000}Chave do controle 
+
+### bloco 0 (0x106320) mensagem 312
+{0000}Uma chave para entrar{0006}
+na sala de controle. 
+
+### bloco 0 (0x106320) mensagem 313
+{0000}Cápsula de combustível 
+
+### bloco 0 (0x106320) mensagem 314
+{0000}Está vazia. 
+
+### bloco 0 (0x106320) mensagem 315
+{0000}Adaga 
+
+### bloco 0 (0x106320) mensagem 316
+{0000}Cravando esta adaga,{0006}
+você consegue se{0006}
+defender e escapar{0005}{0007}de situações{0006}
+perigosas. 
+
+### bloco 0 (0x106320) mensagem 317
+{0000}Granada de luz 
+
+### bloco 0 (0x106320) mensagem 318
+{0000}Um item de defesa.{0006}
+Normalmente usado para{0006}
+atrapalhar a visão{0005}{0007}do agressor. 
+
+### bloco 0 (0x106320) mensagem 319
+{0000}Arma de choque 
+
+### bloco 0 (0x106320) mensagem 320
+{0000}Um item de defesa.{0006}
+Derruba um agressor,{0006}
+deixando-o atordoado{0005}{0007}por um momento. 
+
+### bloco 0 (0x106320) mensagem 321
+{0000}Espécime de abelha 
+
+### bloco 0 (0x106320) mensagem 322
+{0000}O espécime de uma{0006}
+abelha gigante, pronto{0006}
+para exposição. {0005}{0007}Está bem conservado. 
+
+### bloco 0 (0x106320) mensagem 323
+{0000}{000E}{0006}
+{0074}{0009}{0002}{0173}{FFFF}Isca sem anzol 
+
+### bloco 0 (0x106320) mensagem 324
+{0000}Uma isca em forma de{0006}
+abelha. Não tem anzol. 
+
+### bloco 0 (0x106320) mensagem 325
+{0000}Anzol 
+
+### bloco 0 (0x106320) mensagem 326
+{0000}Um anzol de pesca. 
+
+### bloco 0 (0x106320) mensagem 327
+{0000}Isca de abelha 
+
+### bloco 0 (0x106320) mensagem 328
+{0000}Uma isca em forma de{0006}
+abelha, com o anzol{0006}
+preso. 
+
+### bloco 0 (0x106320) mensagem 329
+{0000}{000E}{0006}
+{0077}{0009}{0002}{0174}{FFFF}Raio X de CLARK 
+
+### bloco 0 (0x106320) mensagem 330
+{0000}Tem um nome escrito.{0006}
+“CLARK DAVID” 
+
+### bloco 0 (0x106320) mensagem 331
+{0000}{000E}{0006}
+{0078}{0009}{0002}{0175}{FFFF}Raio X de GAIL 
+
+### bloco 0 (0x106320) mensagem 332
+{0000}Tem um nome escrito.{0006}
+“GAIL HOLLAND” 
+
+### bloco 0 (0x106320) mensagem 333
+{0000}Pacote de baterias 
+
+### bloco 0 (0x106320) mensagem 334
+{0000}Pilhas comuns, vendidas{0006}
+em lojas. Parecem servir{0006}
+de reserva para a{0005}{0007}arma de choque.
+
+### bloco 0 (0x106320) mensagem 335
+{0000}Eixo 
+
+### bloco 0 (0x106320) mensagem 336
+{0000}Parece ser um tipo de{0006}
+chave para ligar a{0006}
+fonte de energia.{0005}{0007}Há símbolos gravados{0006}
+na lateral. 
+
+### bloco 0 (0x106320) mensagem 337
+{0000}Cilindro 
+
+### bloco 0 (0x106320) mensagem 338
+{0000}Um objeto circular de{0006}
+metal com um furo no{0006}
+centro. Há símbolos{0005}{0007}gravados na lateral. 
+
+### bloco 0 (0x106320) mensagem 339
+{0000}Eixo do cilindro 
+
+### bloco 0 (0x106320) mensagem 340
+{0000}Há símbolos gravados{0006}
+na lateral. Girar? 
+
+### bloco 0 (0x106320) mensagem 341
+{0000}{000E}{0006}
+{007D}{0009}{0002}{0176}{FFFF}Máscara sem nada 
+
+### bloco 0 (0x106320) mensagem 342
+{0000}Uma máscara mortuária{0006}
+sem olhos, nariz{0006}
+nem boca. 
+
+### bloco 0 (0x106320) mensagem 343
+{0000}{000E}{0006}
+{007E}{0009}{0002}{0176}{FFFF}Máscara sem olhos 
+
+### bloco 0 (0x106320) mensagem 344
+{0000}Uma máscara mortuária{0006}
+sem olhos. 
+
+### bloco 0 (0x106320) mensagem 345
+{0000}{000E}{0006}
+{007F}{0009}{0002}{0176}{FFFF}Máscara sem nariz 
+
+### bloco 0 (0x106320) mensagem 346
+{0000}Uma máscara mortuária{0006}
+sem nariz. 
+
+### bloco 0 (0x106320) mensagem 347
+{0000}{000E}{0006}
+ {0009}{0002}{0176}{FFFF}Máscara sem boca 
+
+### bloco 0 (0x106320) mensagem 348
+{0000}Uma máscara mortuária{0006}
+sem boca. 
+
+### bloco 0 (0x106320) mensagem 349
+{0000}{000E}{0006}
+▶{0009}{0002}{0177}{FFFF}Partitura, meio
+
+### bloco 0 (0x106320) mensagem 350
+{0000}Faltam o começo e o{0006}
+final da partitura. 
+
+### bloco 0 (0x106320) mensagem 351
+{0000}Mapa 
+
+### bloco 0 (0x106320) mensagem 352
+{0000}Não há nada escrito. 
+
+### bloco 0 (0x106320) mensagem 353
+{0000}Caixa de socorro 
+
+### bloco 0 (0x106320) mensagem 354
+{0000}
+
+### bloco 0 (0x106320) mensagem 355
+{0000}Havia uma mistura de{0006}
+ervas verde e azul{0006}
+dentro. 
+
+### bloco 0 (0x106320) mensagem 356
+{0000}Caixa de socorro 
+
+### bloco 0 (0x106320) mensagem 357
+{0000}
+
+### bloco 0 (0x106320) mensagem 358
+{0000}Havia uma mistura de{0006}
+duas ervas verdes{0006}
+dentro. 
+
+### bloco 0 (0x106320) mensagem 359
+Moeda 
+
+### bloco 0 (0x106320) mensagem 360
+Partitura 
+
+### bloco 0 (0x106320) mensagem 361
+Manivela 
+
+### bloco 0 (0x106320) mensagem 362
+Manivela 
+
+### bloco 0 (0x106320) mensagem 363
+Sonata ao Luar 
+
+### bloco 0 (0x106320) mensagem 364
+Produto químico 
+
+### bloco 0 (0x106320) mensagem 365
+Um isqueiro de latão{0006}
+banhado a ouro. 
+
+### bloco 0 (0x106320) mensagem 366
+Livro vermelho 
+
+### bloco 0 (0x106320) mensagem 367
+Y: OK B: Sair 
+
+### bloco 0 (0x106320) mensagem 368
+Y: OK B: Voltar {0006}
+{NOFIM}
+
+### bloco 0 (0x106320) mensagem 369
+L•R: Girar 
+
+### bloco 0 (0x106320) mensagem 370
+Y: OK B: Voltar 
+
+### bloco 0 (0x106320) mensagem 371
+Isca de abelha 
+
+### bloco 0 (0x106320) mensagem 372
+Raio X 
+
+### bloco 0 (0x106320) mensagem 373
+Raio X 
+
+### bloco 0 (0x106320) mensagem 374
+Máscara mortuária 
+
+### bloco 0 (0x106320) mensagem 375
+Partitura 
+
+### bloco 1 (0x1CCD00) mensagem 0
+{0000}{0006}
+{0016}Manual da S.T.A.R.S.{0006}
+{0006}
+Se você mudou o controle para o{0006}
+TIPO-B ou o TIPO-C, lembre-se de que{0006}
+as instruções daqui valem para o{0006}
+controle TIPO-A. {0007}{0006}
+{0016}—Como ver a TELA DE STATUS—{0006}
+{0006}
+Aperte o botão Y durante o jogo.{0006}
+(Não é possível ver a TELA DE STATUS{0006}
+durante as cenas ou enquanto você{0006}
+estiver sendo atacado.) {0007}{0006}
+Na TELA DE STATUS você pode fazer{0006}
+o seguinte:{0006}
+{0011}N•Equipar armas{0006}
+{0011}N•Usar itens{0006}
+{0011}N•Ver mapas{0006}
+{0011}N•Ler arquivos{0006}
+{0007}{0006}
+{0016}—Como VER O MAPA—{0006}
+{0006}
+Na TELA DE STATUS escolha MAPA na{0006}
+barra de menu, ou aperte o botão Z{0006}
+durante o jogo. Se você não tiver o{0006}
+mapa, só os lugares já explorados{0006}
+vão aparecer. {0007}{0006}
+{0016}—Como LER OS MAPAS—{0006}
+{0006}
+sala sem cor:{0011}ÿSala inexplorada.{0006}
+sala laranja:{0011}ÿSala que ainda{0006}
+{0011}ÿtem itens.{0006}
+sala verde:{0011}ÿSala explorada{0006}
+{0011}ÿe sem itens.{0006}
+{0007}{0006}
+{0006}
+{0006}
+{0006}
+{0011}{0046}porta vermelha:{0011}hTrancada.{0006}
+{0011}{0046}porta branca:{0011}hDestrancada.{0006}
+{0011}{0046}porta azul:{0011}hPorta por onde{0006}
+{0011}hvocê já passou.{0006}
+{0007}{000E}{0007}{0001}{0009}{0002}{001E}{FFFF}{0006}
+{0016}—SOBREVIVÊNCIA REAL, dicas extras—{0006}
+{0006}
+Você pode ver os itens que estão{0006}
+dentro dos baús.{0006}
+{0007}{0006}
+{0006}
+{0006}
+{0006}
+Na TELA DO MAPA, aperte o botão A,{0006}
+escolha o baú que quer olhar e{0006}
+aperte o botão A de novo para{0006}
+confirmar. (O conteúdo do baú{0006}
+vai aparecer.) {0007}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 1
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+É o filme que pertencia ao{0006}
+Kenneth. Preciso de um aparelho para{0006}
+ver o que foi gravado nele. 
+
+### bloco 1 (0x1CCD00) mensagem 2
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Livro da Maldição{0006}
+{0007}{0006}
+{0016}As quatro máscaras,{0006}
+{0016}uma máscara que não fala o mal…{0006}
+{0016}uma máscara que não cheira o mal…{0006}
+{0016}uma máscara que não vê o mal…{0006}
+{0016}uma máscara que não fala, não{0006}
+{0016}cheira nem vê o mal…{0006}
+{0006}
+{0016}Quando as quatro estiverem no lugar,{0006}
+{0016}o mal despertará. 
+
+### bloco 1 (0x1CCD00) mensagem 3
+{0000}{000E}{0005}{01F3}{0009}{0002}{0021}{FFFF}{000C}{0019}{000E}{0005}{01F4}{0009}{0002}{0022}{FFFF}{0007}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 4
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Bilhete amassado {0007}{0006}
+{0006}
+{0006}
+Hoje, o Sr. Spencer me mandou{0006}
+esconder uma coisa num lugar onde{0006}
+ninguém pudesse encontrar. {0007}{0006}
+{0006}
+{0006}
+Bom, eu tive uma ideia. Pensei que,{0006}
+se ela ficasse protegida por um{0006}
+animal perigoso, como o cão feroz{0006}
+que vive aqui, ninguém conseguiria{0006}
+chegar perto dela!  {0007}{0006}
+{0006}
+{0006}
+Pelo que sei, o vira-lata está{0006}
+sempre rondando a sacada do segundo{0006}
+andar, no lado oeste do terraço, e{0006}
+deve vir correndo quando ouvir{0006}
+um apito de cachorro. {0007}{0006}
+{0006}
+{0006}
+É aí que você entra. Acontece que,{0006}
+pelo que eu vejo, você é a única{0006}
+pessoa capaz de chegar perto daquele{0006}
+maldito cão sem ser estraçalhada. {0007}{0006}
+{0006}
+{0006}
+Ou seja, só você pode pôr esta{0006}
+coleira nele. O objeto que o Sr.{0006}
+Spencer quer esconder está escondido{0006}
+dentro dela. {0007}{0006}
+{0006}
+{0006}
+Você é a única pessoa em quem posso{0006}
+confiar isto. É claro que você também{0006}
+vai ganhar algo com isso. Lembra{0006}
+daquele item que você sempre quis{0006}
+conseguir? {0007}{0006}
+{0006}
+{0006}
+Pois bem, em troca dos seus serviços,{0006}
+talvez eu consiga arranjá-lo para{0006}
+você. Isso pode ser bom para nós{0006}
+dois…{0006}
+{0006}
+{0011}{012C}Jon Toleman
+
+### bloco 1 (0x1CCD00) mensagem 5
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}BOTÂNICA{0006}
+{0016}—Usos das Ervas Medicinais— {0007}{0006}
+{0006}
+É bem sabido que existem muitas{0006}
+plantas às quais se atribuem poderes{0006}
+de cura. Desde a antiguidade, a{0006}
+humanidade trata ferimentos e{0006}
+doenças usando várias plantas. {0007}{0006}
+{0006}
+Neste livro, vamos apresentar três{0006}
+ervas nativas das Montanhas Arklay{0006}
+e resumir as propriedades medicinais{0006}
+de cada uma. Cada erva tem uma cor{0006}
+e uma propriedade medicinal{0006}
+própria. {0007}{0006}
+{0006}
+A erva verde recupera as forças.{0006}
+A erva azul neutraliza venenos{0006}
+naturais. Já a erva vermelha não tem{0006}
+efeito sozinha. Descobrimos que{0006}
+misturar ervas verdes e vermelhas{0006}
+aumenta muito o efeito. {0007}{0006}
+{0006}
+Vamos descrever os efeitos da erva{0006}
+vermelha misturada a outras ervas{0006}
+quando tivermos mais dados. Enquanto{0006}
+isso, fique à vontade para fazer{0006}
+seus próprios testes, pois o melhor{0006}
+saber vem da própria experiência. 
+
+### bloco 1 (0x1CCD00) mensagem 6
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Instruções especiais para o descarte{0006}
+de cadáveres {0007}{0006}
+{0006}
+{0006}
+Temos novas informações sobre{0006}
+aqueles “seres”. Eles podem parecer{0006}
+mortos, mas na verdade são capazes{0006}
+de voltar à vida. Porém, há formas{0006}
+de impedir que voltem a se{0006}
+mexer. {0007}{0006}
+{0006}
+{0006}
+Hoje se conhecem duas formas de{0006}
+impedir que eles ressuscitem.{0006}
+{0006}
+1.  INCINERAÇÃO{0006}
+2.  DESTRUIÇÃO DA CABEÇA{0006}
+{0007}{0006}
+{0006}
+{0006}
+Se outros métodos forem descobertos,{0006}
+todos serão avisados imediatamente. {0007}{0006}
+{0006}
+{0006}
+Enquanto isso, para quem ainda tem{0006}
+vontade de viver, deixamos óleo no{0006}
+primeiro andar da mansão. Peguem{0006}
+quanto for preciso. {0007}{0006}
+{0006}
+{0006}
+Vocês vão precisar de algo para{0006}
+acendê-lo, e isso terão de achar{0006}
+sozinhos. 
+
+### bloco 1 (0x1CCD00) mensagem 7
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Diário do Zelador {0007}{0006}
+9 de maio de 1998{0006}
+{0006}
+Joguei pôquer hoje à noite com o Scott{0006}
+e o Alias, da Segurança, e com o Steve,{0006}
+da Pesquisa. O Steve ganhou tudo, mas{0006}
+acho que ele roubou. Canalha. {0007}{0006}
+10 de maio de 1998{0006}
+{0006}
+Um dos chefões me mandou cuidar{0006}
+de uma criatura nova. Parece um{0006}
+gorila sem pele. As instruções eram{0006}
+alimentá-la com animais vivos. {0007}{0006}
+{0006}
+{0006}
+Quando joguei um porco lá dentro,{0006}
+a criatura pareceu brincar com ele…{0006}
+arrancou as pernas do porco e puxou{0006}
+as tripas para fora antes de{0006}
+começar a comer. {0007}{0006}
+11 de maio de 1998{0006}
+{0006}
+Lá pelas 5 da manhã, o Scott me{0006}
+acordou. Quase morri de susto. Ele{0006}
+estava com uma roupa de proteção.{0006}
+Me deu outra e mandou eu vestir.{0006}
+Disse que houve um acidente no{0006}
+laboratório do subsolo. {0007}{0006}
+{0006}
+{0006}
+Eu sabia que algo assim ia acontecer.{0006}
+Aqueles desgraçados da Pesquisa{0006}
+nunca dormem, nem nos feriados. {0007}{0006}
+12 de maio de 1998{0006}
+{0006}
+Estou com essa maldita roupa espacial{0006}
+desde ontem. Minha pele está imunda e{0006}
+coçando inteira. Os malditos cães{0006}
+estão me olhando de um jeito{0006}
+estranho, então resolvi não dar{0006}
+comida para eles hoje. Que se danem. {0007}{0006}
+13 de maio de 1998{0006}
+{0006}
+Fui à enfermaria porque minhas costas{0006}
+estão inchadas e coçando. Puseram um{0006}
+curativo enorme e disseram que eu{0006}
+não precisava mais usar a roupa.{0006}
+Só quero dormir. {0007}{0006}
+14 de maio de 1998{0006}
+{0006}
+Achei outra bolha grande no meu pé{0006}
+hoje de manhã. Acabei arrastando o pé{0006}
+até o canil. Os cães ficaram quietos{0006}
+o dia inteiro, o que é estranho. {0007}{0006}
+{0006}
+{0006}
+Aí percebi que alguns tinham fugido.{0006}
+Talvez seja a vingança deles por eu{0006}
+não ter dado comida nos últimos três{0006}
+dias. Se alguém descobrir, vou ter{0006}
+a cabeça arrancada. {0007}{0006}
+16 de maio de 1998{0006}
+{0006}
+Dizem por aí que um pesquisador que{0006}
+tentou fugir da propriedade ontem à{0006}
+noite levou um tiro. Meu corpo inteiro{0006}
+está quente e coçando, e eu suo o{0006}
+tempo todo. {0007}{0006}
+{0006}
+{0006}
+Cocei o inchaço no braço e um pedaço{0006}
+de carne podre simplesmente caiu.{0006}
+Que diabos está acontecendo comigo? {0007}{0006}
+19 de maio de 1998{0006}
+{0006}
+Febre passou mas coça. Hoje fome{0006}
+e como comida de cachorro. {0007}{0006}
+21 de maio de 1998{0006}
+{0006}
+Coça coça Scott veio cara feia então{0006}
+matei ele. Gostoso. {0007}{0006}
+4 / /  Coça.  Gostoso. 
+
+### bloco 1 (0x1CCD00) mensagem 8
+{0000}{0009}{0001}{001C}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 9
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Mensagem do chefe de segurança {0007}{0016}CONFIDENCIAL{0006}
+A/C: Chefe de Segurança{0006}
+Data: 22 de julho de 1998  2:13{0006}
+{0006}
+O Dia X está chegando. Execute os{0006}
+procedimentos abaixo em até uma{0006}
+semana. Exige-se ação imediata. {0007}{0006}
+{0006}
+{0011}{0046}1.{0011}{005A}Atrair a S.T.A.R.S. para a propriedade{0006}
+{0011}{005A}e obter dados de combate reais das{0006}
+{0011}{005A}B.O.W. contra a S.T.A.R.S. {0007}{0006}
+{0006}
+{0011}{0046}2.{0011}{005A}Coletar dois embriões de cada espécime{0006}
+{0011}{005A}mutante como amostra, exceto o{0006}
+{0011}{005A}Tyrant. Descartar o Tyrant. {0007}{0006}
+{0006}
+{0011}{0046}3.{0011}{005A}Garantir a eliminação total do{0006}
+{0011}{005A}Laboratório Arklay, incluindo todo o{0006}
+{0011}{005A}pessoal e as cobaias. Disfarçar as{0006}
+{0011}{005A}mortes como um acidente.{0006}
+{0011}{005A}Concluídos os procedimentos acima,{0006}
+{0011}{005A}informe a sede para receber{0006}
+{0011}{005A}novas instruções. {0007}{0006}
+{0006}
+Se por algum motivo não for possível{0006}
+cumprir o procedimento no prazo,{0006}
+informe imediatamente. Em caso de{0006}
+emergência, ligue direto para o{0006}
+ramal 5691. {0007}{0006}
+{0006}
+{0006}
+Boa sorte.{0006}
+Sede da Umbrella,{0006}
+Umbrella Inc. 
+
+### bloco 1 (0x1CCD00) mensagem 10
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Bilhete de suicídio {0006}
+{0006}
+{0006}
+{0006}
+{0006}
+{0006}
+{0007}{0006}
+22 de junho de 1998{0006}
+{0006}
+Eu tive que fazer isso. Fugimos{0006}
+daquelas coisas, um ajudando o outro{0006}
+a sobreviver. Mas o Robert começou{0006}
+a mostrar os sintomas. Eu tive que{0006}
+fazer. Aquelas coisas são o mal puro. {0007}{0006}
+{0006}
+{0006}
+Não havia outro jeito. Ele teria feito{0006}
+o mesmo se fosse o contrário. Depois{0006}
+de acabar com o sofrimento dele, tive{0006}
+que deixá-lo no banheiro. Agora devo{0006}
+ser o último.... {0007}{0006}
+{0006}
+{0006}
+Como isso pôde acontecer? Nunca vou{0006}
+me perdoar por ter feito parte deste{0006}
+projeto. Mas um dia vou pagar pelo{0006}
+que fiz. Não há como escapar deste{0006}
+hospício. Agora é só questão de{0006}
+tempo. {0007}{0006}
+{0006}
+{0006}
+Está tudo pronto. Só preciso de um{0006}
+pouco de coragem para ir até o fim.{0006}
+Saber que vou deixar tanta coisa por{0006}
+fazer é um arrependimento que não{0006}
+cabe em palavras. {0007}{0006}
+{0006}
+{0006}
+Mas é melhor do que esperar para{0006}
+virar uma daquelas coisas. Por favor,{0006}
+entenda, e me deixe ao menos acabar{0006}
+com a minha vida como uma pessoa. {0007}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Há uma mensagem no verso. {0007}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Linda, por favor, me perdoe... 
+
+### bloco 1 (0x1CCD00) mensagem 11
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}RELATÓRIO DA PLANTA 42 {0007}{0006}
+{0006}
+Quatro dias se passaram desde o{0006}
+acidente. A planta do Ponto 42 está{0006}
+crescendo num ritmo espantoso. {0007}{0006}
+{0006}
+Embora haja muito de desconhecido{0006}
+nesta planta, sabemos que, comparado{0006}
+ao outro grupo de plantas, o Vírus-T{0006}
+teve um efeito bem mais forte{0006}
+sobre ela. {0007}{0006}
+{0006}
+O Vírus-T mudou drasticamente a{0006}
+anatomia e o tamanho do hospedeiro.{0006}
+Olhando o estado atual, é difícil{0006}
+imaginar como ela era. Não existe{0006}
+nada parecido em nenhum lugar{0006}
+da Terra. {0007}{0006}
+{0006}
+Também descobrimos que a PLANTA 42{0006}
+tem duas fontes principais de{0006}
+nutrientes. Uma delas é a raiz. De{0006}
+algum jeito, ela criou raízes até{0006}
+o subsolo. {0007}{0006}
+{0006}
+Logo depois do acidente, um cientista{0006}
+enlouqueceu e destruiu o Anel{0006}
+Aquático. Desde então, o subsolo virou{0006}
+uma piscina. É bem provável que um{0006}
+dos produtos químicos da água esteja{0006}
+acelerando o crescimento da PLANTA 42. {0007}{0006}
+{0006}
+{0006}
+Porém, ainda não identificamos qual{0006}
+é esse produto químico. {0007}{0006}
+{0006}
+Um corpo em forma de bulbo da{0006}
+PLANTA 42 foi visto pendurado no teto{0006}
+do primeiro andar. Temos certeza de que{0006}
+ela usou os dutos de ar para chegar{0006}
+lá. Muitos cipós longos, parecidos com{0006}
+tentáculos, saem do bulbo. {0007}{0006}
+{0006}
+Acreditamos que os cipós são a segunda{0006}
+forma de conseguir nutrientes. Quando{0006}
+a PLANTA 42 sente uma presa, usa os{0006}
+cipós como tentáculos para pegá-la.{0006}
+Depois disso, ventosas nos cipós{0006}
+sugam todo o sangue da presa. {0007}{0006}
+{0006}
+Também notamos que ela tem certa{0006}
+inteligência. Quando captura uma presa{0006}
+ou está inativa, os cipós se enroscam{0006}
+na porta para barrar possíveis{0006}
+invasores. {0007}{0006}
+{0006}
+Infelizmente, vários dos nossos{0006}
+cientistas já foram vítimas da{0006}
+PLANTA 42. Ao ouvir os relatos dos{0006}
+sobreviventes, todos notaram uma{0006}
+coisa em comum: {0007}{0006}
+{0006}
+Quando as abas em forma de pétala se{0006}
+abrem e mostram as partes vitais,{0006}
+ela tende a ficar mais{0006}
+agressiva. {0007}{0006}
+{0006}
+Uma testemunha disse que era como se{0006}
+ela tentasse se proteger. Ainda não se{0006}
+sabe por que ela age desse jeito.{0006}
+{0006}
+{0011}{012C}21 de maio de 1998{0006}
+{0011}{012C}Henry Sarton 
+
+### bloco 1 (0x1CCD00) mensagem 12
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Experimento de química orgânica {0007}{0006}
+{0006}
+As semelhanças nas características{0006}
+celulares da planta de crescimento{0006}
+rápido infectada pelo Vírus Tyrant já{0006}
+foram relatadas em estudos anteriores.{0006}
+Porém, ao repetir os experimentos,{0006}
+um fato novo e curioso apareceu. {0007}{0006}
+{0006}
+Descobrimos que um produto da família{0006}
+UMB, o UMB No. 20, contém um composto{0006}
+que é tóxico para as células{0006}
+da planta. {0007}{0006}
+{0006}
+Demos ao UMB No. 20 um novo nome:{0006}
+V-JOLT. Se os cálculos estiverem certos,{0006}
+aplicando o V-JOLT direto na raiz da{0006}
+planta, ela inteira deve morrer em{0006}
+5 segundos. {0007}{0006}
+{0006}
+O V-JOLT pode ser feito apenas{0006}
+misturando os produtos VP e UMB numa{0006}
+proporção certa. Mas é preciso muito{0006}
+cuidado ao lidar com os produtos UMB.{0006}
+Eles podem soltar gases tóxicos se{0006}
+forem mal manuseados. {0007}{0006}
+{0006}
+As características de cada produto{0006}
+UMB são as seguintes:{0006}
+{0006}
+UMB No. 3{0011}{012C}vermelho{0006}
+Yellow-6{0011}{012C}amarelo{0006}
+UMB No. 7{0011}{012C}verde{0006}
+UMB No. 10{0011}{012C}laranja{0006}
+VP-017{0011}{012C}azul{0006}
+V-JOLT{0011}{012C}marrom-escuro 
+
+### bloco 1 (0x1CCD00) mensagem 13
+{0000}{000E}{0005}{01F0}{0009}{0002}{0027}{FFFF}{000C}{0017}{000E}{0005}{01F6}{0009}{0002}{0028}{FFFF}{0007}{000C}{002B}{0009}{0001}{0028}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 14
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Fotografia do Barry {0007}{0007}{0006}
+{0006}
+Esta é a foto que caiu da camisa do{0006}
+Barry pouco antes de ele cair no{0006}
+buraco. Há algo escrito no{0006}
+verso. {0007}{0006}
+{0006}
+Nós te amamos, papai.{0006}
+Das suas filhas queridas,{0006}
+{0006}
+{0011}{012C}Moira e Polly
+
+### bloco 1 (0x1CCD00) mensagem 15
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Carta de um pesquisador {0007}{0006}
+8 de junho de 1998{0006}
+Minha querida Ada,{0006}
+{0006}
+Quando você ler esta carta, eu já não{0006}
+serei a pessoa que você conheceu.{0006}
+O resultado do meu exame saiu hoje,{0006}
+e, como eu suspeitava, deu positivo.{0006}
+ {0007}{0006}
+{0006}
+{0006}
+Sinto que estou à beira da loucura{0006}
+só de pensar no fim que me espera.{0006}
+Eu daria tudo para não ter que virar{0006}
+uma daquelas coisas. {0007}{0006}
+{0006}
+{0006}
+Pelo que sei, você não está infectada.{0006}
+Espero de verdade que as coisas não{0006}
+cheguem a esse ponto, mas, se você for{0006}
+a última pessoa viva, quero que pegue{0006}
+o material da Sala de Dados{0006}
+Visuais. {0007}{0006}
+{0006}
+{0006}
+Depois, ative o Sistema de{0006}
+Autodestruição na Sala de Energia e{0006}
+fuja daqui. Por favor, faça tudo o que{0006}
+puder para tornar público todo esse{0006}
+acidente. {0007}{0006}
+{0006}
+{0006}
+Se tudo ainda estiver funcionando,{0006}
+você deve conseguir liberar todas as{0006}
+travas pelo Sistema de Segurança. {0007}{0006}
+{0006}
+{0006}
+Configurei o terminal da pequena sala{0006}
+de segurança para que você entre no{0006}
+sistema usando o meu nome e, como{0006}
+senha, o seu nome. {0007}{0006}
+{0006}
+{0006}
+Você vai precisar de outra senha para{0006}
+liberar a trava da porta do Subsolo 2,{0006}
+onde fica a Sala de Dados{0006}
+Visuais. {0007}{0006}
+{0006}
+{0006}
+Por segurança, codifiquei essa senha{0006}
+numa radiografia, um raio X. Eu{0006}
+conheço você e sei que vai conseguir{0006}
+decifrá-la sem dificuldade. {0007}{0006}
+{0006}
+{0006}
+Só mais uma coisa… é o meu último{0006}
+pedido. Espero que você nunca precise{0006}
+me ver nesse estado, mas, se cruzar{0006}
+comigo nessa forma horrenda, eu{0006}
+imploro: acabe com o meu sofrimento.{0006}
+Espero que você entenda. {0007}{0006}
+{0006}
+{0006}
+{0011}{0064}Obrigado, Ada.{0006}
+{0011}{0064}Com todo o carinho,{0006}
+{0006}
+{0011}{0064}John 
+
+### bloco 1 (0x1CCD00) mensagem 16
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}V-ACT{0006}
+{0016}Nota do pesquisador {0007}{0006}
+{0006}
+Agora há provas de que, quando o{0006}
+hospedeiro perde a consciência, o{0006}
+corpo entra num estado dormente.{0006}
+Nesse período, o vírus fica ativo e{0006}
+transforma e reconstrói rapidamente{0006}
+a composição básica do corpo. {0007}{0006}
+{0006}
+O hospedeiro acabou se transformando{0006}
+numa criatura humanoide. (Nós os{0006}
+chamamos de V-ACT) {0007}{0006}
+{0006}
+A velocidade e o incrível{0006}
+desenvolvimento muscular chamam{0006}
+atenção. Depois da transformação, ele{0006}
+fica mais ágil e agressivo. {0007}{0006}
+{0006}
+Quatro dos nossos pesquisadores já{0006}
+morreram tentando alimentá-lo, e o{0006}
+lugar virou um banho de sangue.{0006}
+(Desde esse acidente trágico e{0006}
+bárbaro, decidimos chamar esse tipo{0006}
+de “Crimson Heads”) {0007}{0006}
+{0006}
+Aquele protótipo perigoso e precioso{0006}
+não pode ficar lá. Precisamos achar{0006}
+um jeito de lidar com ele. Eliminá-lo{0006}
+está totalmente fora de questão.{0006}
+{0007}{0006}
+{0006}
+Por fim, decidimos congelar o{0006}
+espécime e trancar o corpo no subsolo{0006}
+do cemitério nos fundos.
+
+### bloco 1 (0x1CCD00) mensagem 17
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}FAX{0007}{0006}
+{0006}
+{0006}
+Para:{0011}•Divisão de Saneamento{0006}
+A/C:{0011}•Gerente de Saneamento{0006}
+De:{0011}•Comitê de Contingência de{0006}
+{0011}•Desastres de Raccoon {0007}{0006}
+{0006}
+O conteúdo deste fax é confidencial{0006}
+e destinado só ao destinatário{0006}
+indicado. Qualquer cópia ou divulgação{0006}
+do conteúdo deste fax a terceiros{0006}
+é terminantemente proibida pelo{0006}
+remetente. {0007}{0006}
+{0006}
+Depois de lido, este fax deve ser{0006}
+destruído imediatamente. {0007}{0006}
+{0006}
+Esperamos que os danos do recente{0006}
+surto do Vírus-T sejam bem maiores{0006}
+do que o estimado no início.{0006}
+Há várias preocupações. {0007}{0006}
+{0006}
+Primeira preocupação{0006}
+Mais da metade dos pesquisadores foi{0006}
+infectada pelo Vírus-T e morreu.{0006}
+Também foi informado que quase todos{0006}
+os sobreviventes do acidente estão{0006}
+começando a mostrar sintomas da{0006}
+infecção pelo Vírus-T. {0007}{0006}
+{0006}
+Segunda preocupação{0006}
+Nossa Equipe Secreta de Patrulha de{0006}
+Segurança também foi totalmente{0006}
+eliminada. Por isso, nossa pesquisa{0006}
+mais secreta corre risco de vir a{0006}
+público. Exige-se ação rápida para{0006}
+impedir a cobertura da imprensa. {0007}{0006}
+{0006}
+Terceira preocupação{0006}
+É muito provável que a maioria dos{0006}
+espécimes esteja à solta dentro do{0006}
+complexo. Esperamos muitas vítimas{0006}
+em seguida. {0007}{0006}
+{0006}
+Ainda que lamentáveis, essas vítimas{0006}
+comprovam o sucesso dos resultados da{0006}
+nossa pesquisa. É preciso agir para{0006}
+impedir que esses resultados se{0006}
+tornem públicos. {0007}{0006}
+{0006}
+Suspeitamos que a primeira intervenção{0006}
+oficial virá da Polícia Estadual e da{0006}
+S.T.A.R.S. Recomendamos fortemente{0006}
+tomar medidas contra eles{0006}
+primeiro. 
+
+### bloco 1 (0x1CCD00) mensagem 18
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}PROTOCOLOS DE SEGURANÇA {0007}{0006}
+{0016}NÍVEL UM{0006}
+{0006}
+Heliporto/ Só para uso de executivos.{0006}
+Esta restrição não vale em caso de{0006}
+emergência. {0007}{0006}
+{0016}SUBSOLO 1{0006}
+{0006}
+Passagem para o heliporto/ Entrada{0006}
+proibida, a não ser acompanhado por um{0006}
+Pesquisador Consultor ou pelo Chefe de{0006}
+Segurança. Pessoas não autorizadas{0006}
+que entrarem no heliporto serão{0006}
+baleadas na hora. {0007}{0006}
+{0006}
+{0006}
+Elevador/ O elevador para em casos{0006}
+de emergência. {0007}{0006}
+{0016}SUBSOLO 2{0006}
+{0006}
+Sala de Dados Visuais/ Uso exclusivo da{0006}
+Divisão de Pesquisas Especiais. Qualquer{0006}
+outro acesso à Sala de Dados Visuais{0006}
+deve ser liberado por Keith Arving,{0006}
+responsável pela sala. {0007}{0006}
+{0016}SUBSOLO 3{0006}
+{0006}
+Prisão/ A Divisão de Saneamento{0006}
+controla o uso da prisão. Pelo menos um{0006}
+Pesquisador Consultor (E. Smith, S.{0006}
+Ross, A. Wesker) deve estar presente se{0006}
+o uso de vírus for autorizado. {0007}{0006}
+{0006}
+{0006}
+Porta de Tranca Tripla/ A entrada na{0006}
+sala é limitada à única pessoa que{0006}
+desativar a tranca com todas as Senhas.{0006}
+O acesso aos Terminais de Saída{0006}
+exclusivos de cada seção dos{0006}
+Pesquisadores Seniores desativa a tranca.{0006}
+{0007}{0006}
+{0006}
+{0006}
+Sala de Energia/ Nesta sala, um{0006}
+composto nitro é usado como principal{0006}
+combustível de energia. Acesso limitado{0006}
+aos Supervisores da Sede. A restrição{0006}
+pode não valer para Pesquisadores{0006}
+Consultores com autorização especial. {0007}{0006}
+{0006}
+{0006}
+Terminais de Saída de Senha/ O uso e{0006}
+o acesso aos Terminais de Saída são{0006}
+limitados aos Pesquisadores Seniores{0006}
+autorizados. {0007}{0006}
+{0016}SUBSOLO 4{0006}
+{0006}
+Sobre o progresso do “Tyrant”{0006}
+após a aplicação do Vírus-T…{0006}
+{0011}Ý(Ilegível daqui em diante…) 
+
+### bloco 1 (0x1CCD00) mensagem 19
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Nota de observação {0007}{0006}
+{0006}
+A descoberta do Vírus-G aconteceu, na{0006}
+verdade, 21 anos depois da aplicação{0006}
+do vírus primordial. {0007}{0006}
+{0006}
+O “Parasita Protótipo”, que recebemos{0006}
+de um laboratório na França, foi{0006}
+aplicado no espécime de amostra. O{0006}
+espécime aceitou o parasita sem{0006}
+mostrar nenhum sinal de reação{0006}
+adversa. {0007}{0006}
+{0006}
+A falta de qualquer reação era um{0006}
+mistério sem solução. Mas agora está{0006}
+tudo claro para mim. {0007}{0006}
+{0006}
+O “Parasita Protótipo” ficou incubado{0006}
+no corpo do espécime por 21 anos.{0006}
+Então, desse estado de incubação, o{0006}
+protótipo sofreu uma mutação súbita.{0006}
+(“Evoluiu” talvez seja a palavra mais{0006}
+adequada para descrever isso.) {0007}{0006}
+{0006}
+Essa observação ampliou minha visão{0006}
+da pesquisa. Com mais modificações e{0006}
+testes, consegui chegar a um método{0006}
+para criar o “G”, que supera o{0006}
+desempenho do “T”. {0007}{0006}
+{0006}
+{0006}
+Foi essa a descoberta que mudaria o{0006}
+futuro da história das B.O.W. {0007}{0006}
+Mal posso esperar para ver a cara{0006}
+irritante da Alexia quando eu enfim{0006}
+anunciar a minha pesquisa. Mas, pena,{0006}
+vou ter de esperar mais alguns anos{0006}
+para confirmar tudo por completo.{0006}
+{0006}
+{0011}{012C}William Birkin 
+
+### bloco 1 (0x1CCD00) mensagem 20
+{0000}{0006}
+{0016}-EXAMINAR UM ITEM-{0006}
+{0006}
+Na TELA DE STATUS, escolha um ITEM{0006}
+e depois o comando EXAMINAR.{0006}
+(Os detalhes do item vão{0006}
+aparecer.) 
+
+### bloco 1 (0x1CCD00) mensagem 21
+{0000}{0006}
+{0016}—Fuga de Emergência— {0006}
+{0006}
+Usar ITENS DE DEFESA, como as{0006}
+adagas, permite escapar por um{0006}
+instante quando um inimigo agarra{0006}
+você. (Mas não é possível escapar{0006}
+quando o inimigo agarra você{0006}
+por trás.) {0007}{0006}
+{0006}
+{0006}
+Para equipar um ITEM DE DEFESA, vá{0006}
+à TELA DE STATUS e escolha um ITEM{0006}
+no menu ITENS DE DEFESA. Depois,{0006}
+escolha o comando EQUIPAR. {0007}{0006}
+{0006}
+{0006}
+Se o modo de ITEM DE DEFESA estiver{0006}
+em MANUAL nas opções do controle,{0006}
+você precisa apertar o botão L para{0006}
+usar o ITEM DE DEFESA.
+
+### bloco 1 (0x1CCD00) mensagem 22
+{0000}dummy
+
+### bloco 1 (0x1CCD00) mensagem 23
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Foto de família e anotações {0007}{0007}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Há algo escrito no verso.{0006}
+{0007}10 de nov. de 1967{0006}
+-Vírus Progenitor aplicado{0006}
+{0006}
+•Jessica{0006}
+  Vírus aplicado: Tipo-A{0006}
+      Plasmólise do tecido durante a{0006}
+      ativação celular.{0006}
+{0006}
+  Fusão do vírus: Negativa{0006}
+{0006}
+  Ação: Descartada {0007}{0006}
+•Lisa{0006}
+{0006}
+  Vírus aplicado: Tipo-B{0006}
+      Plasmólise do tecido durante a{0006}
+      ativação celular.{0006}
+{0006}
+  Fusão do vírus:{0006}
+      Positiva, mas com fusão tardia.{0006}
+{0007}{0006}
+{0006}
+{0006}
+  Modificação corporal:{0006}
+      Resultados constantes observados.{0006}
+{0006}
+  Situação:{0006}
+      Manter observação protegida. {0007}{0006}
+•George{0006}
+  Ação: Eliminado (30 de nov. de 1967) {0007}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Há um diário deixado por alguém. {0007}{0006}
+14 de nov. de 1967{0006}
+{0006}
+Fiquei tonta depois da injeção que me{0006}
+deram. Não vejo a mamãe. Para onde{0006}
+levaram ela?{0006}
+Ela prometeu que a gente ia fugir{0006}
+juntas. Será que fugiu sozinha e me{0006}
+deixou para trás? {0007}{0006}
+15 de nov. de 1967{0006}
+{0006}
+Achei a mamãe. A gente comeu junto.{0006}
+Fiquei muito feliz. {0007}{0006}
+{0006}
+{0006}
+Mas ela era falsa. Não minha mamãe.{0006}
+Mesmo rosto mas diferente por dentro. {0007}{0006}
+{0006}
+{0006}
+Tenho que achar mamãe. Tenho que{0006}
+devolver rosto para mamãe. {0007}{0006}
+{0006}
+{0006}
+Peguei de volta o rosto da mamãe.{0006}
+Ninguém pode ter minha mamãe só eu.{0006}
+Prendo o rosto dela em mim para ela{0006}
+não ir embora.{0006}
+Porque mamãe triste quando encontro{0006}
+ela sem o rosto. {0007}{0006}
+17 de nov. de 19 7{0006}
+{0006}
+dentro da caixa, cheiro da mamãe.{0006}
+talvez mamãe de verdade lá.{0006}
+caixa de pedra dura. Doeu. corda de{0006}
+aço no caminho.{0006}
+não vejo mamãe porque 4 pedras. 
+
+### bloco 1 (0x1CCD00) mensagem 24
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Foto de família {0007}{0007}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 25
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Diário de Trevor{0007}{0006}
+24 de nov. de 1967{0006}
+{0006}
+Onze dias se passaram desde que{0006}
+cheguei a esta propriedade. Como vim{0006}
+parar nesta situação? Um sujeito de{0006}
+jaleco trouxe um prato com uma{0006}
+refeição mirrada e me disse: {0007}{0006}
+{0006}
+{0006}
+“Desculpe fazer o senhor passar por{0006}
+isto, mas é por segurança.” Foi aí que{0006}
+caiu a ficha. Agora tudo faz sentido. {0007}{0006}
+{0006}
+{0006}
+Só duas pessoas sabem o segredo{0006}
+desta mansão: o Sr. Spencer e eu.{0006}
+Se me matarem, o Sr. Spencer será{0006}
+o único a saber o segredo. {0007}{0006}
+{0006}
+{0006}
+Mas com que objetivo? Isso já não{0006}
+importa. É perigoso demais aqui.{0006}
+Minha família… espero que esteja bem. {0007}{0006}
+{0006}
+{0006}
+Decidi fugir…{0006}
+Jessica, Lisa, rezo para que estejam{0006}
+a salvo. {0007}{0006}
+26 de nov. de 1967{0006}
+{0006}
+Como pude ser tão descuidado? Perdi{0006}
+meu isqueiro favorito, o que a Jessica{0006}
+me deu de aniversário. Agora vai ser{0006}
+bem mais difícil sair deste lugar{0006}
+escuro. {0007}{0006}
+{0006}
+{0006}
+13 de novembro, o dia em que meu{0006}
+destino foi selado. Minha tia tinha{0006}
+sido internada três dias antes. Jessica{0006}
+e Lisa disseram que iam visitá-la.{0006}
+Queria poder estar com elas. {0007}{0006}
+{0006}
+{0006}
+Mas espere, enquanto escrevo, as{0006}
+lembranças voltam com mais nitidez.{0006}
+Pouco antes de desmaiar, lembro que{0006}
+os homens de jaleco disseram algo como{0006}
+“É provável que sua família já…”{0006}
+Rezo para que estejam a salvo. {0007}{0006}
+27 de nov. de 1967{0006}
+{0006}
+De algum jeito consegui sair daquela{0006}
+sala. Mas sair desta mansão não vai{0006}
+ser tão fácil. Tenho que passar por{0006}
+todas as armadilhas. Olhos de Tigre,{0006}
+Emblema Dourado… Preciso tentar{0006}
+lembrar, pelo meu próprio bem.... 
+
+### bloco 1 (0x1CCD00) mensagem 26
+{0000}{0006}
+29 de nov. de 1967{0006}
+{0006}
+Não consigo sair. Tentei todas as{0006}
+formas possíveis de fugir, mas só dei{0006}
+de cara com a realidade: estou preso. {0007}{0006}
+{0006}
+{0006}
+Já estive em todo lugar. O laboratório{0006}
+com os grandes tubos de vidro cheios{0006}
+de formol e aquelas cavernas escuras,{0006}
+úmidas e sinistras… O que posso fazer? {0007}{0006}
+{0006}
+{0006}
+No início, não quis acreditar no que{0006}
+via. Mas aquele sapato de salto alto{0006}
+conhecido no corredor... Foi como um{0006}
+reflexo. Um nome me veio à cabeça:{0006}
+Jessica! {0007}{0006}
+{0006}
+{0006}
+Não quero acreditar que elas tiveram{0006}
+o mesmo destino que eu.{0006}
+Não! Não posso perder a esperança.{0006}
+Tenho que acreditar que estão vivas. {0007}{0006}
+30 de nov. de 1967{0006}
+{0006}
+Não como nem bebo nada há dias.{0006}
+Sinto que estou enlouquecendo. {0007}{0006}
+{0006}
+{0006}
+Por que isso está acontecendo comigo?{0006}
+Por que tenho que morrer assim?{0006}
+Fiquei obcecado demais em projetar{0006}
+esta mansão medonha. Eu devia ter{0006}
+desconfiado. {0007}{0006}
+31 de nov. de 1967{0006}
+{0006}
+Era um túnel subterrâneo escuro e{0006}
+úmido. E mais um beco sem saída. Mas,{0006}
+mesmo na escuridão, algo chamou a{0006}
+minha atenção. {0007}{0006}
+{0006}
+{0006}
+Com cuidado, acendi o último fósforo{0006}
+que tinha para ver o que era. {0007}{0006}
+{0006}
+{0006}
+Um túmulo! E, gravado fundo na pedra,{0006}
+estava o meu nome!{0006}
+{0006}
+{0016}“George Trevor” {0007}{0006}
+{0006}
+{0006}
+Naquele instante, tudo ficou claro.{0006}
+Aqueles desgraçados sabiam desde o{0006}
+começo que eu morreria aqui, e eu{0006}
+caí direitinho na armadilha deles. {0007}{0006}
+{0006}
+{0006}
+Mas agora é tarde. Estou perdendo{0006}
+a razão. Tudo está ficando tão distante.{0006}
+Jessica... Lisa... Me perdoem. {0007}{0006}
+{0006}
+{0006}
+Por causa do meu orgulho, envolvi{0006}
+vocês duas nessa maldita conspiração.{0006}
+Me perdoem. Que Deus aceite a minha{0006}
+morte em troca da segurança de vocês.{0006}
+{0006}
+{0011}{012C}George Trevor 
+
+### bloco 1 (0x1CCD00) mensagem 27
+{0000}{0006}
+{0006}
+{0006}
+{0016}Há algo escrito à mão.{0006}
+{0016}Não tem data. {0007}{0006}
+{0006}
+{0006}
+Nada mudou.{0006}
+Nunca pensei que esta sala que{0006}
+projetei como experimento seria{0006}
+tão útil. {0007}{0006}
+{0006}
+{0006}
+Posso me esconder aqui em segurança{0006}
+por um tempo, porque ninguém conhece{0006}
+o segredo por trás deste quadro.{0006}
+Nem mesmo o Sr. Spencer.{0006}
+{0006}
+Quadro de uma mansão... No fundo da{0006}
+sala de arte. 
+
+### bloco 1 (0x1CCD00) mensagem 28
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Testamento científico {0007}{000E}{0005}{01EA}{0009}{0002}{0025}{FFFF}{0006}
+{0006}
+{0006}
+Há uma carta dentro.{0006}
+A parte de cima da carta foi rasgada.{0006}
+O resto da carta dá para ler. {0007}{0009}{0001}{0026}
+
+### bloco 1 (0x1CCD00) mensagem 29
+{0000}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Foto de família{0006}
+{0006}
+{0006}
+{0006}
+{0006}
+{0006}
+{0007}{0007}{0006}
+{0006}
+{0006}
+{0006}
+{0016}Há um diário deixado por alguém. {0007}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 30
+{0006}
+{0016}—Como EMPURRAR COISAS—{0006}
+{0006}
+Quando houver um objeto que se mexe,{0006}
+fique de frente para ele, na direção{0006}
+em que quer empurrar, e incline o{0006}
+Control Stick (ou o + Control Pad){0006}
+para a frente. {0007}{0006}
+{0016}—SUBIR E DESCER—{0006}
+{0006}
+Vá até um objeto da altura da cintura{0006}
+do personagem e aperte o botão A.{0006}
+(Também dá para subir em objetos que{0006}
+se mexem.) Para DESCER de um objeto,{0006}
+aperte o botão A parado na beirada. {0007}{0006}
+{0016}—Como EQUIPAR ARMAS— {0006}
+{0006}
+Na TELA DE STATUS, escolha a “arma”{0006}
+que quer usar e depois o comando{0006}
+“EQUIPAR”. (Mesmo tendo uma arma,{0006}
+você precisa EQUIPÁ-LA para poder{0006}
+atacar.) {0007}{0006}
+{0016}—POSIÇÃO DE ATAQUE—{0006}
+{0006}
+Segure o botão R. (O personagem{0006}
+fica em posição de ataque, mirando{0006}
+o inimigo mais próximo.) {0007}{0006}
+{0016}—Como ATACAR—{0006}
+{0006}
+Segurando o botão R, aperte o botão A.{0006}
+(Você ataca o inimigo com a arma{0006}
+equipada.) {0007}{0006}
+{0016}—GIRO DE 180 GRAUS— {0006}
+{0006}
+Segurando o Control Stick (ou o{0006}
++ Control Pad) para trás, aperte o{0006}
+botão B. (Também dá para fazer isso{0006}
+só com o C Stick.)  {000E}{0005}{01ED}{0009}{0002}{001F}{FFFF}{0007}{000C}{0014}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 31
+{000E}{0005}{01EE}{0009}{0002}{0020}{FFFF}{0007}{000C}{0015}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 32
+
+
+### bloco 1 (0x1CCD00) mensagem 33
+{000E}{0005}{01F4}{0009}{0002}{0023}{FFFF}{000C}{001A}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 34
+{000E}{0005}{01F5}{0009}{0002}{0024}{FFFF}{0007}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 35
+{000E}{0005}{01F5}{0009}{0002}{0024}{FFFF}{000C}{001B}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 36
+
+
+### bloco 1 (0x1CCD00) mensagem 37
+{0006}
+{0006}
+{0006}
+{0006}
+{0016}Há uma carta. {0007}3 de junho de 1998{0006}
+Minha querida Alma,{0006}
+{0006}
+Antes de tudo, me desculpe por não{0006}
+ter conseguido ligar. Um homem de{0006}
+óculos escuros não permitiu nenhuma{0006}
+ligação. Desculpe, Alma. {0007}{0006}
+{0006}
+{0006}
+Estou aqui tentando pensar por onde{0006}
+começar, como explicar em poucas{0006}
+palavras tudo o que aconteceu desde{0006}
+a última vez que nos falamos, e já{0006}
+estou falhando. {0007}{0006}
+{0006}
+{0006}
+Espero que esta carta encontre você{0006}
+bem, e que você perdoe os rodeios da{0006}
+minha caneta; isto não é fácil. {0007}{0006}
+{0006}
+{0006}
+Enquanto escrevo, sinto as ideias mais{0006}
+simples escaparem, perdidas em meio{0006}
+ao desespero e à confusão, mas preciso{0006}
+dizer o que está no meu coração antes{0006}
+de descansar. Alma, por favor, acredite{0006}
+que o que digo é verdade. {0007}{0006}
+{0006}
+{0006}
+A história inteira levaria horas para{0006}
+contar, e o tempo é curto, então aceite{0006}
+estes fatos: mês passado houve um{0006}
+acidente no laboratório, e o vírus que{0006}
+estudávamos vazou. {0007}{0006}
+{0006}
+{0006}
+Todos os colegas infectados estão{0006}
+mortos ou morrendo, e a doença é tal{0006}
+que os que ainda vivem perderam a{0006}
+razão. Este vírus rouba a humanidade{0006}
+das vítimas e as força, na doença, a{0006}
+buscar e destruir a vida. {0007}{0006}
+{0006}
+{0006}
+Enquanto escrevo estas palavras, ouço{0006}
+eles forçando a minha porta como{0006}
+animais famintos e sem mente. {0007}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 38
+{0006}
+{0006}
+{0006}
+Alma, tentei sobreviver só para ver{0006}
+você de novo. Mas meus esforços só{0006}
+adiaram o inevitável; estou infectado,{0006}
+e não há cura para o que vem a seguir,{0006}
+a não ser acabar com a minha vida antes{0006}
+de perder a única coisa que me separa{0006}
+deles. {0007}{0006}
+{0006}
+{0006}
+O meu amor por você. {0007}{0006}
+{0006}
+{0006}
+Em uma hora terei entrado no sono{0006}
+eterno, onde há paz. Por favor, entenda.{0006}
+Saiba que eu sinto muito.{0006}
+{0006}
+{0011}{012C}Martin Crackhorn 
+
+### bloco 1 (0x1CCD00) mensagem 39
+{000E}{0005}{01F6}{0009}{0002}{0028}{FFFF}{000C}{001D}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 40
+{000E}{0005}{01F1}{0009}{0002}{0029}{FFFF}{0007}{000C}{002A}{NOFIM}
+
+### bloco 1 (0x1CCD00) mensagem 41
+
+
+### bloco 1 (0x1CCD00) mensagem 42
+{0006}
+{0006}
+{0006}
+{0006}
+{0016}É uma carta. {0007}{0006}
+Para a minha Lisa,{0006}
+{0006}
+Dia após dia sinto minha consciência{0006}
+se afastando cada vez mais.{0006}
+As injeções que os homens de branco{0006}
+me deram fizeram parte da coceira da{0006}
+mamãe passar. Hoje me deram outra,{0006}
+dizendo que era “nutrição”. {0007}{0006}
+{0006}
+{0006}
+Quando me dão as injeções, a mamãe{0006}
+consegue pensar direito, mas fica{0006}
+chocada e triste por não conseguir{0006}
+pensar em você o tempo todo. {0007}{0006}
+{0006}
+{0006}
+A mamãe tem medo. Medo de esquecer{0006}
+tudo, principalmente as lembranças de{0006}
+você e do papai… Como são os seus{0006}
+rostos, como a gente vivia junto…{0006}
+Tudo está começando a sumir num{0006}
+lugar escuro da minha mente.{0006}
+{0006}
+{0007}{0006}
+{0006}
+{0006}
+Ah, Lisa, queria poder tocar o seu rosto{0006}
+e te abraçar agora mesmo, para não{0006}
+perder as lindas lembranças de você{0006}
+e do papai. {0007}{0006}
+{0006}
+{0006}
+Lisa, não podemos mais ficar aqui.{0006}
+Temos que fugir! {0007}{0006}
+{0006}
+{0006}
+Me escute, Lisa. Nossa chance de fugir{0006}
+é a próxima vez que formos juntas{0006}
+àquele laboratório. Vamos fingir que{0006}
+estamos desacordadas e, quando o homem{0006}
+de branco se distrair, essa vai ser a{0006}
+nossa chance. {0007}{0006}
+{0006}
+{0006}
+Quando estivermos lá fora, vamos{0006}
+procurar o papai juntas. Tá, querida?{0006}
+Seja forte, Lisa.{0006}
+{0006}
+{0011}{012C}13 de nov. de 1967{0006}
+{0011}{012C}Jessica Trevor{0006}
+
+
+### bloco 1 (0x1CCD00) mensagem 43
+{0006}
+19{0006}
+{0006}
+papaii prendi primero{0006}
+mamã prendi segumdo{0006}
+{0006}
+dEntro vermeLho e gosmeNto{0006}
+bRanco e dUro{0006}
+{0006}
+não mãe De verdade oNde {0007}{0006}
+sei não papaii{0006}
+achei mamãe di novo{0006}
+{0006}
+quando prendi mamãe{0006}
+ela num mexe mais{0006}
+ela gritando{0006}
+{0006}
+por quê?{0006}
+Só quero ficá com ela {0007}{0006}
+{0006}
+4{0006}
+{0006}
+mamãe{0006}
+onde?{0006}
+{0006}
+sdade di vc

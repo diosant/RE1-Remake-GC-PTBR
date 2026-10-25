@@ -1,0 +1,30 @@
+# Arquivo: st5\r506.dat
+
+### bloco 0 (0x1520) mensagem 0
+{0000}Um símbolo de “risco{0006}
+biológico”.{0005}{0007}Indica a presença de{0006}
+materiais biológicos{0005}{0007}perigosos. 
+
+### bloco 0 (0x1520) mensagem 1
+{0000}Um monitor que mostra as{0006}
+imagens de um microscópio{0005}{0007}eletrônico. 
+
+### bloco 0 (0x1520) mensagem 2
+{0000}Um servidor de gerenciamento{0006}
+de dados. Parece quebrado.
+
+### bloco 0 (0x1520) mensagem 3
+{0000}Uma fileira de monitores LCD.{0006}
+Devem ter sido usados para{0005}{0007}mostrar alguma coisa. 
+
+### bloco 0 (0x1520) mensagem 4
+{0000}Os cadáveres estão congelados,{0006}
+embrulhados em sacos. 
+
+### bloco 0 (0x1520) mensagem 5
+{0000}Vários produtos químicos que{0006}
+você nunca viu. 
+
+### bloco 0 (0x1520) mensagem 6
+{0000}Parte de um cadáver está sobre{0006}
+a mesa de cirurgia. 

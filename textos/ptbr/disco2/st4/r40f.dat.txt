@@ -1,0 +1,18 @@
+# Arquivo: st4\r40f.dat
+
+### bloco 0 (0x2AC20) mensagem 0
+{0000}Não faz efeito.
+
+### bloco 0 (0x2AC20) mensagem 1
+{0000}O armário está completamente{0006}
+encharcado.{0005}{0007}Não há nada de especial dentro.
+
+### bloco 0 (0x2AC20) mensagem 2
+{0000}Parece ser o sistema de{0006}
+controle do tanque de água,{0005}{0007}mas está quebrado e não pode{0006}
+ser usado.
+
+### bloco 0 (0x2AC20) mensagem 3
+{0000}Você provavelmente não precisa{0006}
+mais do frasco.{0005}{0007}Jogar fora?{0006}
+{0012}

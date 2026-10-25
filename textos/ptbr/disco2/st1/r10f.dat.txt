@@ -1,0 +1,29 @@
+# Arquivo: st1\r10f.dat
+
+### bloco 0 (0x1D4C0) mensagem 0
+{0000}Um balcão de madeira feito de{0006}
+carvalho. Tem um aroma{0005}{0007}agradável, como de um bom vinho.
+
+### bloco 0 (0x1D4C0) mensagem 1
+{0000}
+
+### bloco 0 (0x1D4C0) mensagem 2
+{0000}Um piano de cauda que parece{0006}
+caro.
+
+### bloco 0 (0x1D4C0) mensagem 3
+{0000}Há algo escrito no canto do{0006}
+quadro:{0005}{0007}“Em comemoração à{0006}
+{0011}{0046}conclusão da mansão...”
+
+### bloco 0 (0x1D4C0) mensagem 4
+{0000}Pedir para ela praticar piano?{0006}
+{0012}
+
+### bloco 0 (0x1D4C0) mensagem 5
+{0000}Rebecca tem um olhar{0006}
+preocupado.
+
+### bloco 0 (0x1D4C0) mensagem 6
+{0000}Rebecca está praticando{0006}
+piano.

@@ -1,0 +1,9 @@
+# Arquivo: st2\r20e.dat
+
+### bloco 0 (0x132C0) mensagem 0
+{0000}Há manchas de sangue na{0006}
+parede. Parecem recentes...
+
+### bloco 0 (0x132C0) mensagem 1
+{0000}Rebecca olha para você com{0006}
+uma expressão aflita.

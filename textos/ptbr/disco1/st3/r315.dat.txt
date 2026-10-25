@@ -1,0 +1,28 @@
+# Arquivo: st3\r315.dat
+
+### bloco 0 (0x2F540) mensagem 0
+{0000}Há uma mensagem gravada no{0006}
+sarcófago:{0005}{0007}“Quando a maldição das{0006}
+{0011}{0046}correntes for quebrada, o{0005}{0007}caminho da verdade surgirá”
+
+### bloco 0 (0x2F540) mensagem 1
+{0000}Uma grade de ferro bloqueia o{0006}
+caminho.{0005}{0007}Deve haver um jeito de{0006}
+abri-la...
+
+### bloco 0 (0x2F540) mensagem 2
+{0000}O Wesker está vigiando este{0006}
+lugar. Melhor seguir em frente{0005}{0007}depressa.
+
+### bloco 0 (0x2F540) mensagem 3
+{0000}O Barry está vigiando este{0006}
+lugar. Melhor seguir em frente.
+
+### bloco 0 (0x2F540) mensagem 4
+{0000}Há um esqueleto no caixão.{0005}{0007}Espere, há mais alguma coisa...
+
+### bloco 0 (0x2F540) mensagem 5
+{0000}Há um esqueleto no caixão.
+
+### bloco 0 (0x2F540) mensagem 6
+{0000}{0016}...mã...mãe... {0008}{005A}

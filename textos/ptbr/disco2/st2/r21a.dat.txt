@@ -1,0 +1,5 @@
+# Arquivo: st2\r21a.dat
+
+### bloco 0 (0x1B880) mensagem 0
+{0000}Dentro da caixa de papelão{0006}
+está a casca descartada de{0005}{0007}uma aranha que trocou de pele.

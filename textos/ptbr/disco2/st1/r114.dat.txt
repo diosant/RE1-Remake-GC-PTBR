@@ -1,0 +1,31 @@
+# Arquivo: st1\r114.dat
+
+### bloco 0 (0x2E20) mensagem 0
+{0000}Uma caldeira. A umidade a{0006}
+deixou enferrujada.
+
+### bloco 0 (0x2E20) mensagem 1
+{0000}Um carrinho enferrujado.{0005}{0007}Está preso na hera e não{0006}
+parece que vai se mexer.
+
+### bloco 0 (0x2E20) mensagem 2
+{0000}Há um pouco de querosene aqui.{0006}
+Daria para encher um{0005}{0007}recipiente, se você tivesse um.
+
+### bloco 0 (0x2E20) mensagem 3
+{0000}Ainda há bastante querosene.
+
+### bloco 0 (0x2E20) mensagem 4
+{0000}Ainda resta metade do{0006}
+querosene.
+
+### bloco 0 (0x2E20) mensagem 5
+{0000}Só resta um pouquinho de{0006}
+querosene.
+
+### bloco 0 (0x2E20) mensagem 6
+{0000}Não resta uma só gota de{0006}
+querosene.
+
+### bloco 0 (0x2E20) mensagem 7
+{0000}Nada acontece.

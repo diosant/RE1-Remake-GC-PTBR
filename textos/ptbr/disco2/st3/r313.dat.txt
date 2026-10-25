@@ -1,0 +1,9 @@
+# Arquivo: st3\r313.dat
+
+### bloco 0 (0x3B9C0) mensagem 0
+{0000}Uma luz fraca passa pela{0006}
+fresta.{0005}{0007}Talvez seja sinal de vida...
+
+### bloco 0 (0x3B9C0) mensagem 1
+{0000}Uma grande estátua se ergue{0006}
+em silêncio na escuridão.

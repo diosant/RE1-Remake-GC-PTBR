@@ -1,0 +1,16 @@
+# Arquivo: st2\r209.dat
+
+### bloco 0 (0x29B40) mensagem 0
+{0000}Não há nada nas gavetas nem{0006}
+nas prateleiras.
+
+### bloco 0 (0x29B40) mensagem 1
+{0000}Estas pegadas parecem seguir{0006}
+direto através da cama.
+
+### bloco 0 (0x29B40) mensagem 2
+{0000}Parece que alguém pegou algo{0006}
+e saiu às pressas.
+
+### bloco 0 (0x29B40) mensagem 3
+{0000}Delete Message

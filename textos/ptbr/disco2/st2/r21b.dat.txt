@@ -1,0 +1,22 @@
+# Arquivo: st2\r21b.dat
+
+### bloco 0 (0x558A0) mensagem 0
+{0000}Parece ser a fonte de energia{0006}
+do elevador.{0005}{0007}O fusível principal queimou.{0006}
+Trocar?{0012}
+
+### bloco 0 (0x558A0) mensagem 1
+{0000}A fonte de energia parece{0006}
+estar funcionando de novo.
+
+### bloco 0 (0x558A0) mensagem 2
+{0000}A fonte de energia já está{0006}
+funcionando.
+
+### bloco 0 (0x558A0) mensagem 3
+{0000}
+
+### bloco 0 (0x558A0) mensagem 4
+{0000}Há vários objetos pequenos{0006}
+na prateleira. Olhando de{0005}{0007}perto, você vê o brasão de{0006}
+Raccoon City num prato quebrado.

@@ -1,0 +1,17 @@
+# Arquivo: st2\r203.dat
+
+### bloco 0 (0x5400) mensagem 0
+{0000}Um vitral.{0005}{0007}O desenho no centro{0006}
+lembra uma bruxa.
+
+### bloco 0 (0x5400) mensagem 1
+{0000}Algum tipo de planta espinhosa{0006}
+que você nunca viu.
+
+### bloco 0 (0x5400) mensagem 2
+{0000}Nada acontece.
+
+### bloco 0 (0x5400) mensagem 3
+{0000}Você provavelmente não precisa{0006}
+mais do apito de cachorro.{0005}{0007}Descartar?{0006}
+{0012}

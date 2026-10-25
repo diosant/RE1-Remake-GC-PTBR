@@ -1,0 +1,28 @@
+# Arquivo: st3\r317.dat
+
+### bloco 0 (0x3BA40) mensagem 0
+{0000}{000B}{0001}{0025}A porta está trancada.
+
+### bloco 0 (0x3BA40) mensagem 1
+{0000}Os barris estão cheios de{0006}
+pólvora.{0005}{0007}Mas aqui é tão úmido que{0006}
+devem estar inúteis.
+
+### bloco 0 (0x3BA40) mensagem 2
+{0000}Algum tipo de gancho mecânico.{0005}{0007}Parece que a porta destranca{0006}
+se você pendurar algo{0005}{0007}especial nele.
+
+### bloco 0 (0x3BA40) mensagem 3
+{0000}Há algum tipo de alavanca{0006}
+aqui.{0005}{0007}Puxar? {0012}
+
+### bloco 0 (0x3BA40) mensagem 4
+{0000}A alavanca está abaixada.
+
+### bloco 0 (0x3BA40) mensagem 5
+{0000}Algum tipo de gancho mecânico.{0005}{0007}O gancho está preso dentro{0006}
+do buraco.
+
+### bloco 0 (0x3BA40) mensagem 6
+{0000}Não é preciso mexer mais{0006}
+nisto.

@@ -1,0 +1,59 @@
+# Arquivo: st1\r105.dat
+
+### bloco 0 (0xC3BC0) mensagem 0
+{0000}{000A}{0007}{000D}{0003}{0000}{0001}Há um encaixe onde antes{0006}
+ficava o emblema. {0014}{0013}{0010}
+
+### bloco 0 (0xC3BC0) mensagem 1
+{0000}{000A}{0008}{000D}{0003}{0000}{0001}Um quadro de dois cavaleiros{0006}
+se golpeando. A espada curta{0005}{0007}foi cravada no peito de um{0006}
+deles, enquanto a espada longa{0005}{0007}perfurou a cabeça do outro. {0014}{0013}{0010}
+
+### bloco 0 (0xC3BC0) mensagem 2
+{0000}“Quando os dois se{0006}
+{0011}{0046}atravessarem, o caminho do{0005}{0007}seu destino se abrirá.”
+
+### bloco 0 (0xC3BC0) mensagem 3
+{0000}Um jarro grande e imundo.
+
+### bloco 0 (0xC3BC0) mensagem 4
+{0000}O único movimento é o{0006}
+tremular silencioso da chama{0005}{0007}da vela.
+
+### bloco 0 (0xC3BC0) mensagem 5
+{0000}Melhor avisar o Wesker...
+
+### bloco 0 (0xC3BC0) mensagem 6
+{0000}Há manchas de sangue no{0006}
+chão. Tomara que não sejam{0005}{0007}dos seus amigos...
+
+### bloco 0 (0xC3BC0) mensagem 7
+{0000}Barry está examinando as{0006}
+manchas de sangue.
+
+### bloco 0 (0xC3BC0) mensagem 8
+{0000}Melhor investigar este lugar{0006}
+primeiro...
+
+### bloco 0 (0xC3BC0) mensagem 9
+{0000}“Quando os dois se{0006}
+{0011}{0046}atravessarem, o caminho do{0005}{0007}seu destino se abrirá.” {0005}{0007}Parece que dá para girar as{0006}
+engrenagens do relógio.{0005}{0007}Tentar?{0006}
+{0012}{0009}{0002}{000D}{FFFF}
+
+### bloco 0 (0xC3BC0) mensagem 10
+{0000}Nada acontece. Talvez tenha{0006}
+algo a ver com as decorações{0005}{0007}de elmo, escudo, armadura e{0006}
+espada.
+
+### bloco 0 (0xC3BC0) mensagem 11
+{0000}Girar para que lado?{0006}
+{0004}Direita {0004}Esquerda {0004}Deixar{0005}
+
+### bloco 0 (0xC3BC0) mensagem 12
+{0000}Continuar girando?{0006}
+{0012}
+
+### bloco 0 (0xC3BC0) mensagem 13
+{0007}Girar qual engrenagem?{0006}
+{0004}Pequena {0004}Grande {0004}Deixar{0005}

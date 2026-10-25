@@ -1,0 +1,806 @@
+# Arquivo: etc\core.dat
+
+### bloco 0 (0x21E980) mensagem 0
+{0000}
+
+### bloco 0 (0x21E980) mensagem 1
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}É uma fechadura antiga, de{0006}
+mecanismo bem simples.
+
+### bloco 0 (0x21E980) mensagem 2
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}Se eu tivesse uma {0003}{0002}gazua {0003}{0000}{0006}
+talvez conseguisse abrir.
+
+### bloco 0 (0x21E980) mensagem 3
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}{0003}{0002}O emblema de uma espada{0006}
+{0003}{0000}está gravado na fechadura.
+
+### bloco 0 (0x21E980) mensagem 4
+{0000}{000B}{0001}{0026}Está trancada.{0005}{0007}{0003}{0002}O emblema de uma espada{0006}
+{0003}{0000}está gravado na fechadura.
+
+### bloco 0 (0x21E980) mensagem 5
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}{0003}{0002}O emblema de um escudo{0006}
+{0003}{0000}está gravado na fechadura.
+
+### bloco 0 (0x21E980) mensagem 6
+{0000}{000B}{0001}{0026}Está trancada.{0005}{0007}{0003}{0002}O emblema de uma armadura{0006}
+{0003}{0000}está gravado na fechadura.
+
+### bloco 0 (0x21E980) mensagem 7
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}{0003}{0002}O emblema de uma armadura{0006}
+{0003}{0000}está gravado na fechadura.
+
+### bloco 0 (0x21E980) mensagem 8
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}{0003}{0002}O emblema de um elmo{0006}
+{0003}{0000}está gravado na fechadura.
+
+### bloco 0 (0x21E980) mensagem 9
+{0000}{000B}{0001}{0025}Está trancada.{0006}
+A placa da porta diz “001”.
+
+### bloco 0 (0x21E980) mensagem 10
+{0000}{000B}{0001}{0025}Está trancada.{0006}
+A placa da porta diz “003”.
+
+### bloco 0 (0x21E980) mensagem 11
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}Um símbolo parecido com o de{0006}
+energia está na fechadura.
+
+### bloco 0 (0x21E980) mensagem 12
+{0000}{000B}{0001}{0025}A porta de saída do{0006}
+laboratório está trancada.
+
+### bloco 0 (0x21E980) mensagem 13
+{0000}{000B}{0001}{0025}A porta do armário está{0006}
+trancada.
+
+### bloco 0 (0x21E980) mensagem 14
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}O emblema da família Spencer{0006}
+está gravado na maçaneta.
+
+### bloco 0 (0x21E980) mensagem 15
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}As palavras “Power Room”{0006}
+estão escritas na porta.
+
+### bloco 0 (0x21E980) mensagem 16
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}A placa da porta diz{0006}
+“GALLERY”.
+
+### bloco 0 (0x21E980) mensagem 17
+{0000}{000B}{0001}{0025}Está trancada do outro{0006}
+lado.
+
+### bloco 0 (0x21E980) mensagem 18
+{0000}Está trancada.
+
+### bloco 0 (0x21E980) mensagem 19
+{0000}{000B}{0001}{0025}A placa diz:{0005}{0007}“SÓ ABRE EM CASO DE{0006}
+{0011}{0046}EMERGÊNCIA DE PRIMEIRO GRAU”
+
+### bloco 0 (0x21E980) mensagem 20
+{0000}Você usou: {0003}{0002}Gazua{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 21
+{0000}Você usou:  {0003}{0002}Chave antiga{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 22
+{0000}Você usou: {0003}{0002}Chave da Espada{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 23
+{0000}Você usou: {0003}{0002}Chave do Escudo{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 24
+{0000}Você usou: {0003}{0002}Chave da Armadura{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 25
+{0000}Você usou: {0003}{0002}Chave do Elmo{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 26
+{0000}Você usou:{0006}
+{0003}{0002}Chave do quarto 001{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 27
+{0000}Você usou:{0006}
+{0003}{0002}Chave do quarto 003{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 28
+{0000}Você usou:{0006}
+{0003}{0002}Chave da área de energia{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 29
+{0000}Você usou: {0003}{0002}Chave mestra{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 30
+{0000}Você usou:{0006}
+{0003}{0002}Chave do armário{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 31
+{0000}Você usou:{0006}
+{0003}{0002}Chave do emblema{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 32
+{0000}Você usou:{0006}
+{0003}{0002}Chave do controle{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 33
+{0000}Você usou:{0006}
+{0003}{0002}Chave da mansão{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 34
+{0000}Você usou:{0006}
+{0003}{0002}Chave da residência{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 35
+{0000}Você usou:{0006}
+{0003}{0002}Chave do laboratório{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 36
+{0000}Você usou:{0006}
+{0003}{0002}Chave da galeria{0003}{0000}.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 37
+{0000}Você destrancou.{000B}{0001}{0029}
+
+### bloco 0 (0x21E980) mensagem 38
+{0000}Esta chave não tem mais{0006}
+utilidade.{0005}{0007}  Descartar?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 39
+{0000}Talvez dê para destrancar{0006}
+com uma {0003}{0002}Chave antiga{0003}{0000}.{0005}{0007}Usar a {0003}{0002}Chave antiga{0003}{0000}?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 40
+{0000}A trava foi liberada.
+
+### bloco 0 (0x21E980) mensagem 41
+{0000}Há ervas azuis crescendo{0006}
+aqui.{0005}{0007}Usar?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 42
+{0000}A gaveta da escrivaninha está{0006}
+trancada.
+
+### bloco 0 (0x21E980) mensagem 43
+{0000}Usar a {0003}{0002}Chave antiga{0003}{0000}? {0012}
+
+### bloco 0 (0x21E980) mensagem 44
+{0000}Usar a {0003}{0002}Gazua{0003}{0000}? {0012}
+
+### bloco 0 (0x21E980) mensagem 45
+{0000}Você usou a {0003}{0002}Chave antiga{0003}{0000}.
+
+### bloco 0 (0x21E980) mensagem 46
+{0000}Preciso me apressar!
+
+### bloco 0 (0x21E980) mensagem 47
+{0000}Preciso ajudar o Chris.
+
+### bloco 0 (0x21E980) mensagem 48
+{0000}{0011}{012C}{0004}Sim {0004}Não{0005}
+
+### bloco 0 (0x21E980) mensagem 49
+{0000}Esta não é a hora!
+
+### bloco 0 (0x21E980) mensagem 50
+{0000}{0002}{0000}{001A}{0000}{0007}{0017}
+
+### bloco 0 (0x21E980) mensagem 51
+{0000}{0002}{0000}Entrada A
+
+### bloco 0 (0x21E980) mensagem 52
+{0000}{0002}{0000}Entrada B
+
+### bloco 0 (0x21E980) mensagem 53
+{0000}{0002}{0000}JOGO SALVO
+
+### bloco 0 (0x21E980) mensagem 54
+{0000}{0002}{0000}JOGO CARREGADO
+
+### bloco 0 (0x21E980) mensagem 55
+{0000}{0002}{0000}{0006}
+FALHA AO SALVAR
+
+### bloco 0 (0x21E980) mensagem 56
+{0000}{0002}{0000}{0006}
+FALHA AO CARREGAR{0005}
+
+### bloco 0 (0x21E980) mensagem 57
+{0000}{0002}{0000}FORMATAÇÃO CONCLUÍDA
+
+### bloco 0 (0x21E980) mensagem 58
+{0000}{0002}{0000}O Memory Card na entrada{0006}
+tem dados corrompidos e{0005}{0007}precisa ser formatado.{0005}{0007}Deseja formatar?{0008}{0001}{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 59
+{0000}{0002}{0000}Falha ao formatar.{0005}
+
+### bloco 0 (0x21E980) mensagem 60
+{0000}
+
+### bloco 0 (0x21E980) mensagem 61
+{0000}
+
+### bloco 0 (0x21E980) mensagem 62
+{0000}{0002}{0000}O acesso foi cancelado.{0005}
+
+### bloco 0 (0x21E980) mensagem 63
+{0000}{0002}{0000}O Memory Card na entrada{0006}
+não pode ser usado neste jogo.{0005}
+
+### bloco 0 (0x21E980) mensagem 64
+{0000}{0002}{0000}{0006}
+Não há Memory Card{0006}
+inserido.{0005}{0007}Para salvar este jogo, são{0006}
+necessários 8 blocos livres.{0005}
+
+### bloco 0 (0x21E980) mensagem 65
+{0000}{0002}{0000}Acessando. Não toque no Memory{0006}
+Card nem no botão POWER.
+
+### bloco 0 (0x21E980) mensagem 66
+{0000}{0002}{0000}{0006}
+Não há espaço livre suficiente{0006}
+no Memory Card.{0005}{0007}Para salvar este jogo, são{0006}
+necessários 8 blocos livres.{0005}
+
+### bloco 0 (0x21E980) mensagem 67
+{0000}{0002}{0000}Como o número de arquivos{0006}
+passaria do limite, não é{0005}{0007}possível criar outros arquivos.{0005}
+
+### bloco 0 (0x21E980) mensagem 68
+{0000}
+
+### bloco 0 (0x21E980) mensagem 69
+{0000}{0002}{0000}{0016}Memory Card
+
+### bloco 0 (0x21E980) mensagem 70
+{0000}{0002}{0000}SEM DADOS
+
+### bloco 0 (0x21E980) mensagem 71
+{0000}{0018}{0000}C{000B}{0000}{0020}h{000B}{0000}{0020}r{000B}{0000}{0020}i{000B}{0000}{0020}s{000B}{0000}{0020}{0011}R/{000B}{0000}{0020}{0018}{0018}
+
+### bloco 0 (0x21E980) mensagem 72
+{0000}{0018}{0000}J{000B}{0000}{0020}i{000B}{0000}{0020}l{000B}{0000}{0020}l{000B}{0000}{0020}{0011}R/{000B}{0000}{0020}{0018}{0018}
+
+### bloco 0 (0x21E980) mensagem 73
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}M{000B}{0000}{0020}a{000B}{0000}{0020}n{000B}{0000}{0020}s{000B}{0000}{0020}.{000B}{0000}{0020} {000B}{0000}{0021}F{000B}{0000}{0020}a{000B}{0000}{0020}r{000B}{0000}{0020}m{000B}{0000}{0020}á{000B}{0000}{0020}c{000B}{0000}{0020}i{000B}{0000}{0020}a{000B}{0000}{0020}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 74
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}M{000B}{0000}{0020}a{000B}{0000}{0020}n{000B}{0000}{0020}s{000B}{0000}{0020}.{000B}{0000}{0020} {000B}{0000}{0021}J{000B}{0000}{0020}a{000B}{0000}{0020}n{000B}{0000}{0020}t{000B}{0000}{0020}a{000B}{0000}{0020}r{000B}{0000}{0020}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 75
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}M{000B}{0000}{0020}a{000B}{0000}{0020}n{000B}{0000}{0020}s{000B}{0000}{0020}.{000B}{0000}{0020} {000B}{0000}{0021}E{000B}{0000}{0020}s{000B}{0000}{0020}c{000B}{0000}{0020}.{000B}{0000}{0020} {000B}{0000}{0021}L{000B}{0000}{0020}e{000B}{0000}{0020}s{000B}{0000}{0020}t{000B}{0000}{0020}e{000B}{0000}{0020} {000B}{0000}{0021}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 76
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}Á{000B}{0000}{0020}r{000B}{0000}{0020}e{000B}{0000}{0020}a{000B}{0000}{0020} {000B}{0000}{0021}d{000B}{0000}{0020}a{000B}{0000}{0020} {000B}{0000}{0021}M{000B}{0000}{0020}i{000B}{0000}{0020}n{000B}{0000}{0020}a{000B}{0000}{0020} {000B}{0000}{0021}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 77
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}C{000B}{0000}{0020}a{000B}{0000}{0020}b{000B}{0000}{0020}a{000B}{0000}{0020}n{000B}{0000}{0020}a{000B}{0000}{0020} {000B}{0000}{0021}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 78
+{0000}/{000B}{0000}{0020} {000B}{0000}{0021}P{000B}{0000}{0020}á{000B}{0000}{0020}t{000B}{0000}{0020}i{000B}{0000}{0020}o{000B}{0000}{0020} {000B}{0000}{0021}S{000B}{0000}{0020}u{000B}{0000}{0020}b{000B}{0000}{0020}s{000B}{0000}{0020}o{000B}{0000}{0020}l{000B}{0000}{0020}o{000B}{0000}{0020} {000B}{0000}{0021}2{000B}{0000}{0020}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 79
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}P{000B}{0000}{0020}a{000B}{0000}{0020}s{000B}{0000}{0020}s{000B}{0000}{0020}a{000B}{0000}{0020}g{000B}{0000}{0020}e{000B}{0000}{0020}m{000B}{0000}{0020} {000B}{0000}{0021}E{000B}{0000}{0020}s{000B}{0000}{0020}c{000B}{0000}{0020}a{000B}{0000}{0020}d{000B}{0000}{0020}a{000B}{0000}{0020} {000B}{0000}{0021}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 80
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}R{000B}{0000}{0020}e{000B}{0000}{0020}s{000B}{0000}{0020}.{000B}{0000}{0020} {000B}{0000}{0021}D{000B}{0000}{0020}e{000B}{0000}{0020}p{000B}{0000}{0020}ó{000B}{0000}{0020}s{000B}{0000}{0020}i{000B}{0000}{0020}t{000B}{0000}{0020}o{000B}{0000}{0020}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 81
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}Q{000B}{0000}{0020}u{000B}{0000}{0020}a{000B}{0000}{0020}r{000B}{0000}{0020}t{000B}{0000}{0020}o{000B}{0000}{0020} {000B}{0000}{0021}0{000B}{0000}{0020}0{000B}{0000}{0020}3{000B}{0000}{0020} {000B}{0000}{0021}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 82
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}E{000B}{0000}{0020}n{000B}{0000}{0020}t{000B}{0000}{0020}r{000B}{0000}{0020}a{000B}{0000}{0020}d{000B}{0000}{0020}a{000B}{0000}{0020} {000B}{0000}{0021}L{000B}{0000}{0020}a{000B}{0000}{0020}b{000B}{0000}{0020}.{000B}{0000}{0020}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 83
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}S{000B}{0000}{0020}a{000B}{0000}{0020}l{000B}{0000}{0020}a{000B}{0000}{0020} {000B}{0000}{0021}L{000B}{0000}{0020}a{000B}{0000}{0020}b{000B}{0000}{0020}.{000B}{0000}{0020}{000B}{0000}{0022}
+
+### bloco 0 (0x21E980) mensagem 84
+{0000}{0018}{0000}/{000B}{0000}{0020} {000B}{0000}{0021}F{000B}{0000}{0020}I{000B}{0000}{0020}M{000B}{0000}{0020} {000B}{0000}{0021}/{000B}{0000}{0020}
+
+### bloco 0 (0x21E980) mensagem 85
+{0000}1{000B}{0000}{0020}.{000B}{0000}{0020}
+
+### bloco 0 (0x21E980) mensagem 86
+{0000}2{000B}{0000}{0020}.{000B}{0000}{0020}
+
+### bloco 0 (0x21E980) mensagem 87
+{0000}3{000B}{0000}{0020}.{000B}{0000}{0020}
+
+### bloco 0 (0x21E980) mensagem 88
+{0000}4{000B}{0000}{0020}.{000B}{0000}{0020}
+
+### bloco 0 (0x21E980) mensagem 89
+{0000}5{000B}{0000}{0020}.{000B}{0000}{0020}
+
+### bloco 0 (0x21E980) mensagem 90
+{0000}{0002}{0000}Não salvar
+
+### bloco 0 (0x21E980) mensagem 91
+{0000}{0002}{0000}Não carregar
+
+### bloco 0 (0x21E980) mensagem 92
+{0000}Você neutralizou o veneno{0006}
+no seu corpo. 
+
+### bloco 0 (0x21E980) mensagem 93
+{0000}Há ervas azuis crescendo{0006}
+aqui.{0005}{0007}Você não precisa usá-las{0006}
+agora. 
+
+### bloco 0 (0x21E980) mensagem 94
+{0000}Há ervas verdes crescendo{0006}
+aqui.{0005}{0007}Mas só dá para usar mais{0006}
+algumas vezes.{0005}{0007}Usar?{0012}
+
+### bloco 0 (0x21E980) mensagem 95
+{0000}Há ervas verdes crescendo{0006}
+aqui.{0005}{0007}Só dá para usar mais{0006}
+uma vez.{0005}{0007}Usar?{0012}
+
+### bloco 0 (0x21E980) mensagem 96
+{0000}Você tratou os seus ferimentos.
+
+### bloco 0 (0x21E980) mensagem 97
+{0000}Há ervas verdes crescendo{0006}
+aqui.{0005}{0007}Você não precisa usá-las{0006}
+agora. 
+
+### bloco 0 (0x21E980) mensagem 98
+{0000}Não dá mais para tratar os{0006}
+seus ferimentos. 
+
+### bloco 0 (0x21E980) mensagem 99
+{0000}É uma máquina de escrever{0006}
+antiga. Dá para salvar o jogo.{0005}{0007}Usar a {0003}{0002}Fita de tinta{0003}{0000}?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 100
+{0000}É uma máquina de escrever{0006}
+antiga.{0005}{0007}Se eu tivesse uma {0003}{0002}Fita de tinta{0003}{0000},{0006}
+poderia salvar o jogo. 
+
+### bloco 0 (0x21E980) mensagem 101
+{0000}{0002}{0000}Ajustar o brilho da tela.
+
+### bloco 0 (0x21E980) mensagem 102
+{0000}{0002}{0000}Mudar a configuração do controle.
+
+### bloco 0 (0x21E980) mensagem 103
+{0000}{0002}{0000}Ajustar o volume de música e{0006}
+efeitos.
+
+### bloco 0 (0x21E980) mensagem 104
+{0000}{0002}{0000}Sair do jogo e voltar à tela{0006}
+de título.
+
+### bloco 0 (0x21E980) mensagem 105
+{0000}{0002}{0000}Voltar ao jogo.
+
+### bloco 0 (0x21E980) mensagem 106
+{0000}{0002}{0000}Voltar às configurações{0006}
+padrão?{0006}
+{0016}{0015}{0004}Sim  {0004}Não{0005}
+
+### bloco 0 (0x21E980) mensagem 107
+{0000}{0002}{0000}Sair do jogo e voltar à tela{0006}
+de título?{0006}
+{0016}{0015}{0004}Sim  {0004}Não{0005}
+
+### bloco 0 (0x21E980) mensagem 108
+{0000}{0002}{0000}Ocorreu um erro.{0006}
+Desligue o console e consulte{0006}
+o manual de instruções do{0006}
+Nintendo GameCube™ para{0006}
+mais informações.
+
+### bloco 0 (0x21E980) mensagem 109
+{0000}{0002}{0000}Insira o Disco 1 de{0006}
+Resident Evil.
+
+### bloco 0 (0x21E980) mensagem 110
+{0000}{0002}{0000}Feche a tampa do disco.
+
+### bloco 0 (0x21E980) mensagem 111
+{0000}{0002}{0000}Este não é o disco de{0006}
+Resident Evil.{0006}
+Insira o disco de{0006}
+Resident Evil.
+
+### bloco 0 (0x21E980) mensagem 112
+{0000}{0002}{0000}Feche a tampa do disco.
+
+### bloco 0 (0x21E980) mensagem 113
+{0000}{0002}{0000}Não foi possível ler o{0006}
+disco.{0006}
+Consulte o manual de{0006}
+instruções do Nintendo{0006}
+GameCube™ para mais detalhes.
+
+### bloco 0 (0x21E980) mensagem 114
+{0000}{0002}{0000}Não há dados salvos de{0006}
+Resident Evil.{0005}
+
+### bloco 0 (0x21E980) mensagem 115
+{0000}{0005}
+
+### bloco 0 (0x21E980) mensagem 116
+{0000}{0002}{0000}
+
+### bloco 0 (0x21E980) mensagem 117
+{0000}{0002}{0003}
+
+### bloco 0 (0x21E980) mensagem 118
+{0000}MANSÃO ANDAR 1
+
+### bloco 0 (0x21E980) mensagem 119
+{0000}MANSÃO ANDAR 1
+
+### bloco 0 (0x21E980) mensagem 120
+{0000}MANSÃO ANDAR 2
+
+### bloco 0 (0x21E980) mensagem 121
+{0000}MANSÃO SUBSOLO 1
+
+### bloco 0 (0x21E980) mensagem 122
+{0000}PÁTIO
+
+### bloco 0 (0x21E980) mensagem 123
+{0000}PÁTIO SUBSOLO 1
+
+### bloco 0 (0x21E980) mensagem 124
+{0000}PÁTIO SUBSOLO 2
+
+### bloco 0 (0x21E980) mensagem 125
+{0000}RESIDÊNCIA
+
+### bloco 0 (0x21E980) mensagem 126
+{0000}ANEL AQUÁTICO
+
+### bloco 0 (0x21E980) mensagem 127
+{0000}LABORATÓRIO
+
+### bloco 0 (0x21E980) mensagem 128
+{0000}Há um {0003}{0002}mapa:{0006}
+{000C}{FFFF}{0003}{0000}.{0005}{0007}Pegar?  {0012}
+
+### bloco 0 (0x21E980) mensagem 129
+{0000}Você pegou o {0003}{0002}mapa:{0006}
+{000C}{FFFF}{0003}{0000}.
+
+### bloco 0 (0x21E980) mensagem 130
+{0000}{0002}{0000}Entre no survival horror.
+
+### bloco 0 (0x21E980) mensagem 131
+{0000}{0002}{0000}Entre no survival horror.
+
+### bloco 0 (0x21E980) mensagem 132
+{0000}{0002}{0000}O medo não pode matar você.{0006}
+Mas...
+
+### bloco 0 (0x21E980) mensagem 133
+{0000}{0002}{0000}Enfrente seus medos e sobreviva.
+
+### bloco 0 (0x21E980) mensagem 134
+{0000}{0002}{0000}Na escuridão estão os seus{0006}
+medos.
+
+### bloco 0 (0x21E980) mensagem 135
+{0000}{0002}{0000}{0006}
+Boa sorte!
+
+### bloco 0 (0x21E980) mensagem 136
+{0000}{0002}{0000}Gravar por cima?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 137
+{0000}{0002}{0000}Voltar à tela de título sem{0006}
+salvar.   Ok?{0012}
+
+### bloco 0 (0x21E980) mensagem 138
+{0000}Ainda há bastante querosene.{0005}{0007}Encher o cantil de combustível?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 139
+{0000}Ainda resta metade do{0006}
+querosene.{0005}{0007}Encher o cantil de combustível?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 140
+{0000}Só resta um pouquinho de{0006}
+querosene.{0005}{0007}Encher o cantil de combustível?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 141
+{0000}Não resta uma só gota de{0006}
+querosene.
+
+### bloco 0 (0x21E980) mensagem 142
+{0000}Ainda há bastante querosene.
+
+### bloco 0 (0x21E980) mensagem 143
+{0000}Ainda resta metade do{0006}
+querosene.
+
+### bloco 0 (0x21E980) mensagem 144
+{0000}Só resta um pouquinho de{0006}
+querosene.
+
+### bloco 0 (0x21E980) mensagem 145
+{0000}Não resta uma só gota de{0006}
+querosene.
+
+### bloco 0 (0x21E980) mensagem 146
+{0000}Ainda há bastante querosene.{0005}{0007}Mas o seu cantil já está{0006}
+cheio.
+
+### bloco 0 (0x21E980) mensagem 147
+{0000}Ainda resta metade do{0006}
+querosene.{0005}{0007}Mas o seu cantil já está{0006}
+cheio.
+
+### bloco 0 (0x21E980) mensagem 148
+{0000}Só resta um pouquinho de{0006}
+querosene.{0005}{0007}Mas o seu cantil já está{0006}
+cheio.
+
+### bloco 0 (0x21E980) mensagem 149
+{0000}Não resta uma só gota de{0006}
+querosene.
+
+### bloco 0 (0x21E980) mensagem 150
+{0000}Você encheu o cantil com{0006}
+querosene.
+
+### bloco 0 (0x21E980) mensagem 151
+{0000}
+
+### bloco 0 (0x21E980) mensagem 152
+{0000}
+
+### bloco 0 (0x21E980) mensagem 153
+{0000}
+
+### bloco 0 (0x21E980) mensagem 154
+{0000}
+
+### bloco 0 (0x21E980) mensagem 155
+{0000}
+
+### bloco 0 (0x21E980) mensagem 156
+{0000}
+
+### bloco 0 (0x21E980) mensagem 157
+{0000}
+
+### bloco 0 (0x21E980) mensagem 158
+{0000}
+
+### bloco 0 (0x21E980) mensagem 159
+{0000}
+
+### bloco 0 (0x21E980) mensagem 160
+{0000}
+
+### bloco 0 (0x21E980) mensagem 161
+{0000}
+
+### bloco 0 (0x21E980) mensagem 162
+{0000}
+
+### bloco 0 (0x21E980) mensagem 163
+{0000}
+
+### bloco 0 (0x21E980) mensagem 164
+{0000}
+
+### bloco 0 (0x21E980) mensagem 165
+{0000}
+
+### bloco 0 (0x21E980) mensagem 166
+{0000}
+
+### bloco 0 (0x21E980) mensagem 167
+{0000}
+
+### bloco 0 (0x21E980) mensagem 168
+{0000}
+
+### bloco 0 (0x21E980) mensagem 169
+{0000}
+
+### bloco 0 (0x21E980) mensagem 170
+{0000}
+
+### bloco 0 (0x21E980) mensagem 171
+{0000}
+
+### bloco 0 (0x21E980) mensagem 172
+{0000}
+
+### bloco 0 (0x21E980) mensagem 173
+{0000}
+
+### bloco 0 (0x21E980) mensagem 174
+{0000}
+
+### bloco 0 (0x21E980) mensagem 175
+{0000}
+
+### bloco 0 (0x21E980) mensagem 176
+{0000}
+
+### bloco 0 (0x21E980) mensagem 177
+{0000}
+
+### bloco 0 (0x21E980) mensagem 178
+{0000}
+
+### bloco 0 (0x21E980) mensagem 179
+{0000}
+
+### bloco 0 (0x21E980) mensagem 180
+{0000}
+
+### bloco 0 (0x21E980) mensagem 181
+{0000}{0002}{0000}Não há espaço suficiente no{0006}
+Memory Card da Entrada A.{0006}
+Para salvar, são necessários{0006}
+1 arquivo e 8 blocos livres.{0006}
+Para organizar o conteúdo do{0006}
+Memory Card, use a tela de{0006}
+Memory Card.{0006}
+{0011}{0023}{0004}Tentar de novo{0004}Seguir sem salvar{0005}
+
+### bloco 0 (0x21E980) mensagem 182
+{0000}{0002}{0000}Não há espaço suficiente no{0006}
+Memory Card da Entrada B.{0006}
+Para salvar, são necessários{0006}
+1 arquivo e 8 blocos livres.{0006}
+Para organizar o conteúdo do{0006}
+Memory Card, use a tela de{0006}
+Memory Card.{0006}
+{0011}{0023}{0004}Tentar de novo{0004}Seguir sem salvar{0005}
+
+### bloco 0 (0x21E980) mensagem 183
+{0000}{0002}{0000}Como o número de arquivos{0006}
+passaria do limite do Memory{0006}
+Card da Entrada A, não é{0006}
+possível criar outros arquivos.{0006}
+Para organizar o conteúdo do{0006}
+Memory Card, use a tela de{0006}
+Memory Card.{0006}
+{0011}{0023}{0004}Tentar de novo{0004}Seguir sem salvar{0005}
+
+### bloco 0 (0x21E980) mensagem 184
+{0000}{0002}{0000}Como o número de arquivos{0006}
+passaria do limite do Memory{0006}
+Card da Entrada B, não é{0006}
+possível criar outros arquivos.{0006}
+Para organizar o conteúdo do{0006}
+Memory Card, use a tela de{0006}
+Memory Card.{0006}
+{0011}{0023}{0004}Tentar de novo{0004}Seguir sem salvar{0005}
+
+### bloco 0 (0x21E980) mensagem 185
+{0000}{0002}{0000}Não há Memory Card inserido.{0006}
+{0011}{0023}{0004}Tentar de novo{0004}Seguir sem salvar{0005}
+
+### bloco 0 (0x21E980) mensagem 186
+{0000}{0002}{0000}Há outro aparelho na entrada.{0006}
+Insira um Memory Card.{0005}
+
+### bloco 0 (0x21E980) mensagem 187
+{0000}{0002}{0000}O Memory Card da Entrada A{0006}
+está danificado.{0005}
+
+### bloco 0 (0x21E980) mensagem 188
+{0000}{0002}{0000}O Memory Card da Entrada B{0006}
+está danificado.{0005}
+
+### bloco 0 (0x21E980) mensagem 189
+{0000}{0002}{0000}O Memory Card da Entrada A{0006}
+está danificado.{0005}
+
+### bloco 0 (0x21E980) mensagem 190
+{0000}{0002}{0000}O Memory Card da Entrada B{0006}
+está danificado.{0005}
+
+### bloco 0 (0x21E980) mensagem 191
+{0000}{0002}{0000}O Memory Card da Entrada A{0006}
+não é compatível com o jogo.{0005}
+
+### bloco 0 (0x21E980) mensagem 192
+{0000}{0002}{0000}O Memory Card da Entrada B{0006}
+não é compatível com o jogo.{0005}
+
+### bloco 0 (0x21E980) mensagem 193
+{0000}{0002}{0000}O aparelho da Entrada A não{0006}
+pode ser usado.{0005}
+
+### bloco 0 (0x21E980) mensagem 194
+{0000}{0002}{0000}O aparelho da Entrada B não{0006}
+pode ser usado.{0005}
+
+### bloco 0 (0x21E980) mensagem 195
+{0000}{0002}{0000}{0006}
+Não há nada na Entrada A.{0005}
+
+### bloco 0 (0x21E980) mensagem 196
+{0000}{0002}{0000}{0006}
+Não há nada na Entrada B.{0005}
+
+### bloco 0 (0x21E980) mensagem 197
+{0000}{0002}{0000}O Memory Card da Entrada A{0006}
+tem dados corrompidos e{0006}
+precisa ser formatado.{0005}{0007}Deseja formatar?{0008}{0001}{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 198
+{0000}{0002}{0000}O Memory Card da Entrada B{0006}
+tem dados corrompidos e{0006}
+precisa ser formatado.{0005}{0007}Deseja formatar?{0008}{0001}{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 199
+{0000}{0002}{0000}O Memory Card da Entrada A{0006}
+foi formatado.{0005}
+
+### bloco 0 (0x21E980) mensagem 200
+{0000}{0002}{0000}O Memory Card da Entrada B{0006}
+foi formatado.{0005}
+
+### bloco 0 (0x21E980) mensagem 201
+{0000}{0002}{0000}O jogo salvo 1 está corrompido.{0005}{0007}Deseja apagá-lo?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 202
+{0000}{0002}{0000}O jogo salvo 2 está corrompido.{0005}{0007}Deseja apagá-lo?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 203
+{0000}{0002}{0000}O jogo salvo 3 está corrompido.{0005}{0007}Deseja apagá-lo?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 204
+{0000}{0002}{0000}O jogo salvo 4 está corrompido.{0005}{0007}Deseja apagá-lo?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 205
+{0000}{0002}{0000}O jogo salvo 5 está corrompido.{0005}{0007}Deseja apagá-lo?{0006}
+{0012}
+
+### bloco 0 (0x21E980) mensagem 206
+{0000}{0002}{0000}O jogo salvo foi apagado.{0005}
+
+### bloco 0 (0x21E980) mensagem 207
+{0000}{0002}{0000}Falha ao carregar.{0006}
+O jogo salvo está corrompido.{0005}
+
+### bloco 0 (0x21E980) mensagem 208
+{0000}{0002}{0000}{0016}Licenciado pela Nintendo
+
+### bloco 0 (0x21E980) mensagem 209
+{0000}{0002}{0000}O Memory Card da Entrada A{0006}
+não é compatível com o jogo.{0006}
+{0011}{0023}{0004}Tentar de novo{0004}Seguir sem salvar{0005}
+
+### bloco 0 (0x21E980) mensagem 210
+{0000}{0002}{0000}O Memory Card da Entrada B{0006}
+não é compatível com o jogo.{0006}
+{0011}{0023}{0004}Tentar de novo{0004}Seguir sem salvar{0005}
+
+### bloco 0 (0x21E980) mensagem 211
+{0000}{0002}{0000}O Memory Card da Entrada A{0006}
+está danificado.{0006}
+{0011}{0023}{0004}Tentar de novo{0004}Seguir sem salvar{0005}
+
+### bloco 0 (0x21E980) mensagem 212
+{0000}{0002}{0000}O Memory Card da Entrada B{0006}
+está danificado.{0006}
+{0011}{0023}{0004}Tentar de novo{0004}Seguir sem salvar{0005}

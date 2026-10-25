@@ -1,0 +1,32 @@
+# Arquivo: st3\r311.dat
+
+### bloco 0 (0x25860) mensagem 0
+{0000}Uma placa de sinalização.{0005}{0007}Ela indica o caminho para{0006}
+vários destinos.
+
+### bloco 0 (0x25860) mensagem 1
+{0000}Parece ser algum tipo de{0006}
+placa. Cada direção tem o seu{0005}{0007}destino correspondente.{0005}{0007}Norte: Vale da Destruição{0006}
+Sul: Caverna do Ódio{0005}{0007}Leste: Cume da Loucura{0006}
+Oeste: Caminho da Vingança
+
+### bloco 0 (0x25860) mensagem 2
+{0000}Há um interruptor aqui.{0006}
+Apertar?{0012}
+
+### bloco 0 (0x25860) mensagem 3
+{0000}Há um interruptor aqui.{0006}
+Apertar?{0012}
+
+### bloco 0 (0x25860) mensagem 4
+{0000}“O portão se abrirá quando{0006}
+{0011}{0046}os desejos do cão de guarda{0005}{0007}forem satisfeitos”
+
+### bloco 0 (0x25860) mensagem 5
+{0000}Uma estátua de olhos azuis.{0006}
+A inscrição diz:{0005}{0007}“Os Últimos Suspiros da{0006}
+{0011}{0046}Destruição”
+
+### bloco 0 (0x25860) mensagem 6
+{0000}Uma estátua de olhos{0006}
+vermelhos. A inscrição diz:{0005}{0007}“O Grito de Guerra da Vingança”

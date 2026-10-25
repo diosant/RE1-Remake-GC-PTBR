@@ -1,0 +1,6 @@
+# Arquivo: st3\r308.dat
+
+### bloco 0 (0x2F600) mensagem 0
+{0000}Uma pedra enorme bloqueia o{0006}
+caminho.{0005}{0007}Há manchas de sangue{0006}
+embaixo da pedra.

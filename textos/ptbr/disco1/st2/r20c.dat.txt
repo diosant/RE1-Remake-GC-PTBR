@@ -1,0 +1,19 @@
+# Arquivo: st2\r20c.dat
+
+### bloco 0 (0xA060) mensagem 0
+{0000}Há um interruptor aqui.{0006}
+Apertar? {0015}{0012}
+
+### bloco 0 (0xA060) mensagem 1
+{0000}Há um nome gravado na{0006}
+pequena lápide:{0005}{0007}         “George Trevor”{0005}{0007}Há um interruptor.{0006}
+Apertar? {0015}{0012}
+
+### bloco 0 (0xA060) mensagem 2
+{0000}Há um buraco aos seus pés.{0005}{0007}Mas não dá para ver muito{0006}
+lá dentro.{0005}{0007}Descer?{0012}
+
+### bloco 0 (0xA060) mensagem 3
+{0000}O quadro de uma mãe e seu{0006}
+filho. {0005}{0007}Olhando de perto, o lado{0006}
+esquerdo parece o rosto{0005}{0007}de alguém.
