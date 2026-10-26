@@ -6,32 +6,24 @@ Tradução de fã dos **textos** e das **legendas** de *Resident Evil* (Remake d
 
 ## O que está traduzido
 
-| Parte | Situação |
-|---|---|
-| Mensagens das salas (portas, objetos, diálogos de texto) | ✅ Traduzido |
-| Itens: nomes e descrições | ✅ Traduzido |
-| Arquivos/documentos (diários, cartas, manuais) | ✅ Traduzido |
-| Sistema: memory card, máquina de escrever, mapa, avisos | ✅ Traduzido |
-| Menu da tela de título e questionário de dificuldade | ✅ Traduzido |
-| Capas dos documentos e textos da tela de status (imagens) | ✅ Traduzido |
-| **Legendas das cenas** (só na versão europeia/PAL, veja abaixo) | ✅ Traduzido |
-| Menu de opções, telas do final e extras, seleção de personagem, EXIT/KEY/FILE/MAP | 🚧 Em andamento |
-| Teste completo do jogo do começo ao fim | 🚧 Em andamento |
+Tudo o que tem texto no jogo:
+
+- mensagens das salas, itens, documentos e textos de sistema (memory card, máquina de escrever, mapa);
+- **legendas de todas as cenas**, inclusive do vídeo de abertura;
+- telas em imagem: menu do título, questionário de dificuldade, seleção de personagem, tela de status, capas dos documentos, menu de opções e telas do final e dos extras.
+
+A tradução foi jogada do começo ao fim no **Wii U pelo Nintendont**.
 
 Os nomes dos locais na tela de save ficam em inglês de propósito, para não quebrar essa tela.
 
 ## Qual versão usar
 
-Existem duas versões do patch:
-
-- **Americana (NTSC-U, GBIE08)**: todos os textos em português. A versão americana do jogo **não tem legendas nas cenas**, então as cenas ficam só com o áudio em inglês.
-- **Europeia (PAL, GBIP08)**: todos os textos **e as legendas das cenas** em português. O português entra no lugar do **espanhol**: no menu de idioma do jogo, escolha **PORTUGUESE** (é a opção que antes era o espanhol). Em algumas salas o italiano também foi sobrescrito.
-
-Se você quer legendas, use a versão PAL.
+- **Americana (NTSC-U, GBIE08)**: a recomendada. O disco americano já tem o sistema de legendas (com as falas vazias); a tradução preenche essas falas, então o jogo fica com **textos e legendas em português**.
+- **Europeia (PAL, GBIP08)**: também traduzida, com textos e legendas. O português entra no lugar do **espanhol**: no menu de idioma do jogo, escolha **PORTUGUESE** (é a opção que antes era o espanhol).
 
 ## Como aplicar o patch
 
-> Os patches (`.xdelta`) vão ser publicados na aba **[Releases](../../releases)** assim que o teste completo terminar. Ainda não há um patch final.
+> Os patches (`.xdelta`) são publicados na aba **[Releases](../../releases)**. Se ainda não houver nenhum lá, eles ainda não foram publicados.
 
 1. Tenha o jogo original (os dois discos) da versão que você escolheu. Se ele estiver em `.rvz`, `.gcz` ou `.nkit`, converta para `.iso` no Dolphin: clique com o botão direito no jogo → **Converter arquivo...** → formato **ISO**.
 2. Baixe o patch de cada disco na página de Releases.
@@ -67,14 +59,15 @@ scripts/traducoes/    traduções de partes maiores (documentos, itens, core.dat
 scripts/imagens/      listas de textos de imagem a trocar (menu de opções, final)
 textos/ptbr/          textos traduzidos, um .txt por arquivo do jogo (disco 1 e 2)
 pal/scripts/          scripts da versão europeia (PAL) e as legendas traduzidas
-gerar_disco1.bat      gera a ISO americana traduzida do disco 1 (Windows)
+gerar_disco1.bat      gera a ISO americana final do disco 1: textos, imagens e legendas (Windows)
 gerar_disco2.bat      idem, disco 2
 pal/gerar_pal.bat     gera as duas ISOs PAL traduzidas
+scripts/imagens_wiiu.py, som_wiiu.py   imagens e som de abertura para instalar o jogo no menu do Wii U (UWUVCI)
 ```
 
 Encontrou um erro de tradução, texto cortado ou letra estranha? Abra uma [issue](../../issues) dizendo o disco, a versão (US ou PAL), o lugar no jogo e, se puder, uma captura de tela.
 
 ## Créditos
 
-- Tradução, scripts e testes: **Mah** ([@diosant](https://github.com/diosant)), com a ajuda do Claude (Anthropic).
+- Tradução, scripts e testes no Wii U: **Mah** ([@diosant](https://github.com/diosant)), com a ajuda do Claude (Anthropic).
 - *Resident Evil* é marca registrada da Capcom. Todos os direitos do jogo pertencem à Capcom.

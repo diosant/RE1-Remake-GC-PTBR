@@ -3,12 +3,12 @@ G = 'georgia.ttf'
 M = dict(m='escuro', f=G)
 TRABALHOS = [
   {'arquivo': 'subscr/subopt.dat', 'base': 0x0, 'itens': [
-    dict(M, r=(86, 156, 170, 174), t='OPÇÕES', s=19, esp=0),
-    dict(M, r=(14, 173, 240, 190), t='CONFIGURAR CONTROLE', s=20),
-    dict(M, r=(12, 189, 242, 209), t='AJUSTE DE BRILHO', s=20),
-    dict(M, r=(300, 156, 468, 174), t='CONFIGURAR ÁUDIO', s=20),
-    dict(M, r=(300, 173, 468, 190), t='REINICIAR JOGO', s=20),
-    dict(M, r=(330, 189, 440, 209), t='SAIR', s=20),
+    dict(M, r=(60, 159, 196, 176), t='OPÇÕES', s=19, fundo=(0, 0, 0)),
+    dict(M, r=(8, 176, 246, 192), t='CONFIGURAR CONTROLE', s=20, fundo=(0, 0, 0)),
+    dict(M, r=(8, 192, 246, 208), t='AJUSTE DE BRILHO', s=20, fundo=(0, 0, 0)),
+    dict(M, r=(290, 159, 476, 176), t='CONFIGURAR ÁUDIO', s=20, fundo=(0, 0, 0)),
+    dict(M, r=(290, 176, 476, 192), t='REINICIAR JOGO', s=20, fundo=(0, 0, 0)),
+    dict(M, r=(290, 192, 476, 208), t='SAIR', s=20, fundo=(0, 0, 0)),
   ]},
   {'arquivo': 'subscr/subopt.dat', 'base': 0x20040, 'itens': [
     dict(M, r=(20, 10, 236, 34), t='AJUSTE PELA TV', s=21),

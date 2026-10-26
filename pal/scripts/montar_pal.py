@@ -67,7 +67,7 @@ def normal(t):
     return re.sub(r'[^0-9A-Za-z]', '', re.sub(r'\{[0-9A-F]{4}\}|\{NOFIM\}', '', t)).lower()
 
 def dicionario():
-    d = {}
+    d = {}; iguais = set()
     for n in (1, 2):
         en_ref = os.path.join(RAIZ, 'textos', 'en', f'disco{n}'); pt_ref = os.path.join(RAIZ, 'textos', 'ptbr', f'disco{n}')
         for dp, _, fs in os.walk(en_ref):
@@ -79,12 +79,15 @@ def dicionario():
                 for k, msgs in en.items():
                     for i, t in msgs.items():
                         if k in pt and i in pt[k] and pt[k][i] != t: d.setdefault(t, pt[k][i])
+                        elif k in pt and i in pt[k]: iguais.add(t)   # o US manteve igual de proposito
     try:
         d.update(importlib.import_module('traducoes.extras').D)
     except ModuleNotFoundError:
         pass
     for t, p in list(d.items()):
         if len(normal(t)) >= 8: d.setdefault(('~', normal(t)), p)
+    for t in iguais:
+        d.setdefault(t, t)
     return d
 
 def escrever(src, dst, trocas):
@@ -160,9 +163,7 @@ def main(n):
                         e = en.get(i)
                         if e is None or not e.replace('{0000}', '').strip():
                             continue   # sem ingles: e legenda (tratada abaixo) ou vazio
-                        if '{000B}{0000}{0020}' in e:
-                            trocas[(bs, i)] = e   # nomes de local da tela de save: ficam em ingles (como no US)
-                        elif e in dic:
+                        if e in dic:
                             trocas[(bs, i)] = dic[e]; total_norm += 1
                         elif ('~', normal(e)) in dic:
                             trocas[(bs, i)] = dic[('~', normal(e))]; total_norm += 1

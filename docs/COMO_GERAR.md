@@ -8,7 +8,7 @@ Os comandos abaixo são para Windows, rodando na pasta raiz do repositório. Nad
 
 - Python 3 com o [Pillow](https://pypi.org/project/pillow/) (`pip install pillow`), usado pelos scripts de imagem.
 - [Dolphin](https://dolphin-emu.org/) (o `DolphinTool.exe` que vem com ele extrai e converte os discos). Nos exemplos ele está em `ferramentas\Dolphin-x64\`.
-- As fontes do Windows usadas nas imagens: Courier New, Garamond, Georgia e Times New Roman, em `C:\Windows\Fonts`.
+- As fontes do Windows usadas nas imagens: Courier New, Garamond, Georgia, Times New Roman, Impact, Arial Black e Ink Free, em `C:\Windows\Fonts`.
 - Os seus próprios discos do jogo, em `originais\` (americano) e `originais (PAL)\` (europeu). Essas pastas estão no `.gitignore` e nunca vão para o GitHub.
 
 ## Versão americana (NTSC-U, GBIE08)
@@ -47,14 +47,22 @@ Para levar ao disco 2 o que já foi traduzido no disco 1 (os textos se repetem q
 python -I scripts\reaproveitar_traducao.py textos\en\disco1 textos\ptbr\disco1 textos\en\disco2 textos\ptbr\disco2
 ```
 
-### 4. Gerar a ISO
+### 4. Gerar a ISO final
 
-Dê dois cliques em `gerar_disco1.bat` (ou `gerar_disco2.bat`). Ele:
+As legendas das cenas foram traduzidas a partir do disco PAL (o americano tem o sistema de legendas, mas com as falas vazias). Por isso, para gerar a ISO americana **com legendas**, antes faça os passos 1 e 2 da versão europeia (abaixo) e rode uma vez:
+
+```
+python -I pal\scripts\montar_pal.py 1
+python -I pal\scripts\montar_pal.py 2
+```
+
+Depois, dê dois cliques em `gerar_disco1.bat` (ou `gerar_disco2.bat`). Eles chamam `scripts\gerar_disco.bat`, que:
 
 1. confere a tradução (`conferir_traducao.py`: mesmos códigos de controle e linhas que cabem na caixa);
-2. traduz as imagens (capas dos documentos, tela de status, questionário de dificuldade, menu do título);
+2. traduz as imagens: capas dos documentos, tela de status, questionário, menu do título e as listas de `scripts\imagens\` (opções, final/extras, seleção de personagem);
 3. reinsere os textos (`inserir_textos.py`), gravando só os arquivos que mudaram em `build\alterados_discoN`;
-4. grava esses arquivos numa cópia da ISO base (`aplicar_na_iso.py`) → `build\discoN_ptbr.iso`.
+4. coloca as legendas das cenas (`pal\scripts\legendas_us.py`) nesses arquivos;
+5. grava tudo numa cópia da ISO base (`aplicar_na_iso.py`) → `build\discoN_ptbr.iso`.
 
 ## Versão europeia (PAL, GBIP08)
 
@@ -73,10 +81,10 @@ Repita com o disco 2. A tradução americana (`textos\en` e `textos\ptbr`) tamb�
 
 ### 2. Gerar as ISOs
 
-Dê dois cliques em `pal\gerar_pal.bat`. Para cada disco ele:
+Rode antes os `gerar_discoN.bat` da versão americana: as telas traduzidas do PAL são copiadas de lá. Depois, dê dois cliques em `pal\gerar_pal.bat`. Para cada disco ele:
 
 1. monta os textos em português (`montar_pal.py`) em `pal\textos\ptbr\` e lista o que ficou sem tradução;
-2. reinsere os textos (`pal_texto.py inserir`), inclusive no `main.dol` (legendas do vídeo de abertura e menu de idioma);
+2. copia as telas traduzidas do US para o lugar das telas em espanhol (`imagens_pal.py`) e reinsere os textos (`pal_texto.py inserir`), inclusive no `main.dol` (legendas do vídeo de abertura e menu de idioma);
 3. confere as salas (`verificar_salas.py`): o bloco espanhol precisa ter exatamente o português, e o italiano precisa continuar válido;
 4. grava os arquivos numa cópia da ISO base (`aplicar_na_iso_pal.py`) → `pal\build\discoN_pal_ptbr.iso`.
 
@@ -89,3 +97,7 @@ xdelta3 -e -9 -S djw -s build\disco1_base.iso build\disco1_ptbr.iso disco1_ptbr.
 ```
 
 Os patches são publicados na página de Releases, nunca no repositório.
+
+## Instalar no menu do Wii U (opcional)
+
+Para ter o jogo como um ícone no menu do Wii U (com o [UWUVCI AIO](https://github.com/stuff-by-3-random-dudes/UWUVCI-AIO-WPF)), `scripts\imagens_wiiu.py` gera as imagens do título (TV, GamePad, ícone e logo) a partir das artes que você escolher, e `scripts\som_wiiu.py` corta um trecho de 6 segundos de um WAV para o som de abertura.

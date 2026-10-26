@@ -62,6 +62,10 @@ ITENS = [
     ((814, 615, 990, 630), 'Itens do Chris', 'transp', COUR_B, 16),
     ((814, 630, 990, 646), 'Itens da Jill', 'transp', COUR_B, 16),
     ((814, 647, 930, 663), 'BAÚ DE ITENS', 'transp', COUR_B, 16),
+    ((656, 673, 782, 692), '', 'transp', COUR_B, 14),
+    ((656, 674, 782, 691), 'LISTA DE ITENS', 'transp', COUR_B, 14),
+    ((96, 601, 150, 619), '', 'transp', COUR, 14),
+    ((96, 602, 150, 618), 'arq. -', 'transp', COUR, 14),
 ]
 
 def claro(p, limiar):

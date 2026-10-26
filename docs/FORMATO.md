@@ -94,7 +94,11 @@ Para aumentar um texto, [`espaco_subscr.py`](../scripts/espaco_subscr.py) aument
 
 ## Versão PAL e legendas
 
-A versão americana **não tem legendas** nas cenas. A europeia (GBIP08) tem cinco idiomas e legendas.
+A europeia (GBIP08) tem cinco idiomas e legendas.
+
+A americana **também tem o sistema de legendas**, só que com todas as falas vazias (`{0000}`): cada sala com cena tem uma seção de legendas (ponteiro 12 do cabeçalho da sala) com a mesma quantidade de falas do PAL, e as legendas dos vídeos ficam vazias no `etc/core.dat` (mensagens 151 a 180, que no PAL são as 152 a 181 do `main.dol`). [`legendas_us.py`](../pal/scripts/legendas_us.py) preenche essas falas com as legendas em português, usando os códigos de tempo do PAL.
+
+No PAL:
 
 - Nas salas, cada seção de texto começa com uma tabela de 5 deslocamentos (`0x14` no primeiro `u32`), na ordem **inglês, alemão, francês, espanhol, italiano**. O português é gravado no bloco **espanhol** (4º). Algumas salas fazem o italiano apontar para o mesmo bloco.
 - As legendas das cenas ficam em blocos separados nos mesmos arquivos (grupos de 4 ou 5 blocos com a mesma quantidade de mensagens; o inglês às vezes vem vazio). Cada fala é dividida em trechos separados por códigos de pausa/tempo. Nas traduções em [`pal/scripts/traducoes/`](../pal/scripts/traducoes/) os trechos são separados por `|`, e [`montar_pal.py`](../pal/scripts/montar_pal.py) encaixa o texto novo entre os códigos originais, sem mudar os tempos.
@@ -112,8 +116,11 @@ Alguns textos são desenhados em texturas **TPL** (formato de imagem do GameCube
 | `subscr/subscr.dat` | CMPR 512×448 | Capas dos documentos (título na faixa das linhas 284–300) |
 | `subscr/subsel.dat` | TPL em `0x0`, imagem 0, CMPR 512×448 | Questionário de dificuldade |
 | `etc/title.dat` | TPL em `0x76700`, 9 imagens RGBA8 170×22 | Menu da tela de título |
-| `subscr/subopt.dat` | TPL em `0x0` | Menu de opções (em andamento) |
-| `etc/ending.dat` | — | Telas do final e extras (em andamento) |
+| `subscr/subopt.dat` | TPL em `0x0` | Menu de opções e ajuste de brilho |
+| `subscr/subsel.dat` | imagens 2 e 12 | Seleção de personagem (carimbo e título) |
+| `etc/ending.dat` | — | Telas do final e extras |
+
+No PAL cada tela existe uma vez por idioma; [`imagens_pal.py`](../pal/scripts/imagens_pal.py) copia a textura traduzida do US para o lugar da versão espanhola (o menu do título do PAL tem outro tamanho, 256×22, e é desenhado de novo).
 
 - [`tpl.py`](../scripts/tpl.py) lê as texturas e salva como PNG, sem bibliotecas externas.
 - [`cmpr.py`](../scripts/cmpr.py) recodifica CMPR (parecido com DXT1) só nos sub-blocos 4×4 que mudaram; o resto da imagem fica idêntico ao original.
