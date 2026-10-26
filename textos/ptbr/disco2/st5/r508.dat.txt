@@ -1,0 +1,25 @@
+# Arquivo: st5\r508.dat
+
+### bloco 0 (0x37C0) mensagem 0
+{0000}Alavancas para liberar as{0006}
+travas das portas.{0005}{0007}Agora, se der para soltar as{0006}
+travas das alavancas...
+
+### bloco 0 (0x37C0) mensagem 1
+{0000}Alavancas para liberar as{0006}
+travas das portas.{0005}{0007}Parece que dá para usar.{0006}
+Puxar?{0012}
+
+### bloco 0 (0x37C0) mensagem 2
+{0000}Este equipamento médico parece{0006}
+ter sido largado no meio do{0005}{0007}uso.
+
+### bloco 0 (0x37C0) mensagem 3
+{0000}{000B}{0001}{0025}Está trancada.{0005}{0007}Se der para fazer funcionar{0006}
+aquelas alavancas do lado, ela{0005}{0007}deve abrir...
+
+### bloco 0 (0x37C0) mensagem 4
+{0000}As travas foram liberadas.
+
+### bloco 0 (0x37C0) mensagem 5
+{0000}{000B}{0001}{0025}Está trancada.

@@ -1,0 +1,6 @@
+# Arquivo: st2\r208.dat
+
+### bloco 0 (0x2BA0) mensagem 0
+{0000}Há um arranhão enorme nesta{0006}
+parede.{0005}{0007}Não parece obra daquelas{0006}
+aberrações apodrecidas.

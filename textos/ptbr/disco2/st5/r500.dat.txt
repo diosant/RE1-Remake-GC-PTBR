@@ -1,0 +1,12 @@
+# Arquivo: st5\r500.dat
+
+### bloco 0 (0x3260) mensagem 0
+{0000}Um poço de elevador enorme.{0005}{0007}Também há o que parece ser{0006}
+uma espécie de tanque de{0005}{0007}água.
+
+### bloco 0 (0x3260) mensagem 1
+{0000}Não é preciso voltar.
+
+### bloco 0 (0x3260) mensagem 2
+{0000}Primeiro você precisa colocar{0006}
+a cápsula de combustível…

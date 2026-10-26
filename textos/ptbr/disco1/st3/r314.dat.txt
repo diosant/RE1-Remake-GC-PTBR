@@ -1,0 +1,27 @@
+# Arquivo: st3\r314.dat
+
+### bloco 0 (0xA2AE0) mensagem 0
+{0000}Esta lenha parece recente.
+
+### bloco 0 (0xA2AE0) mensagem 1
+{0000}Uma cama rústica.{0005}{0007}Parece que ninguém a usa há{0006}
+muito tempo.
+
+### bloco 0 (0xA2AE0) mensagem 2
+{0000}Daqui dá para ver bem a{0006}
+entrada da cabana.
+
+### bloco 0 (0xA2AE0) mensagem 3
+{0000}Esta não é hora para isso!
+
+### bloco 0 (0xA2AE0) mensagem 4
+{0000}A porta está trancada do{0006}
+outro lado.
+
+### bloco 0 (0xA2AE0) mensagem 5
+{0000}Há várias ataduras penduradas.{0005}{0007}Essas manchas marrons seriam{0006}
+de sangue?
+
+### bloco 0 (0xA2AE0) mensagem 6
+{0000}Há uma escada aqui.{0006}
+Descer?{0012}

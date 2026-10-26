@@ -1,0 +1,31 @@
+# Arquivo: st2\r216.dat
+
+### bloco 0 (0x4C5C0) mensagem 0
+{0000}Há um livro exposto dentro{0006}
+da vitrine.{0005}{0007}Você não consegue pegá-lo{0006}
+agora.
+
+### bloco 0 (0x4C5C0) mensagem 1
+{0000}{000D}{0004}ú{0001}A maçaneta está quebrada.{0005}{0007}Parece que não vai abrir.
+
+### bloco 0 (0x4C5C0) mensagem 2
+{0000}Uma coleção de livros de{0006}
+filosofia.{0005}{0007}Todos tratam da eterna{0006}
+questão da vida e da morte.
+
+### bloco 0 (0x4C5C0) mensagem 3
+{0000}Uma coleção de livros sobre{0006}
+os mais variados assuntos.{0005}{0007}Não parece haver nada{0006}
+de útil.
+
+### bloco 0 (0x4C5C0) mensagem 4
+{0000}Cadeiras para leitura.
+
+### bloco 0 (0x4C5C0) mensagem 5
+{0000}Livros velhos caíram da{0006}
+prateleira.
+
+### bloco 0 (0x4C5C0) mensagem 6
+{0000}Dá para ver uma fonte logo{0006}
+do lado de fora da janela.{0005}{0007}Será que fica em algum lugar{0006}
+do pátio?

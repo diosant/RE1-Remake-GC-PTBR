@@ -1,0 +1,89 @@
+# Arquivo: st1\r10b.dat
+
+### bloco 0 (0x559E0) mensagem 0
+{0000}Um túmulo gravado com a{0006}
+imagem de um anjo.{0005}{0007}Há um encaixe no formato de{0006}
+uma ponta de flecha.
+
+### bloco 0 (0x559E0) mensagem 1
+{0000}Um livro se encaixa{0006}
+perfeitamente no buraco.
+
+### bloco 0 (0x559E0) mensagem 2
+{0000}A seguinte inscrição está{0006}
+gravada no encaixe:{0005}{0007}“Olho por olho, dente{0006}
+{0011}{0046}por dente”
+
+### bloco 0 (0x559E0) mensagem 3
+{0000}Uma estátua de pedra com um{0006}
+buraco no lugar dos olhos.
+
+### bloco 0 (0x559E0) mensagem 4
+{0000}A máscara se encaixa{0006}
+perfeitamente.
+
+### bloco 0 (0x559E0) mensagem 5
+{0000}Uma estátua de pedra com um{0006}
+buraco no lugar do nariz.
+
+### bloco 0 (0x559E0) mensagem 6
+{0000}A máscara se encaixa{0006}
+perfeitamente.
+
+### bloco 0 (0x559E0) mensagem 7
+{0000}Uma estátua de pedra com um{0006}
+buraco no lugar da boca.
+
+### bloco 0 (0x559E0) mensagem 8
+{0000}A máscara se encaixa{0006}
+perfeitamente.
+
+### bloco 0 (0x559E0) mensagem 9
+{0000}Uma estátua de pedra com{0006}
+buracos no lugar dos olhos,{0005}{0007}do nariz e da boca.
+
+### bloco 0 (0x559E0) mensagem 10
+{0000}A máscara se encaixa{0006}
+perfeitamente.
+
+### bloco 0 (0x559E0) mensagem 11
+{0000}Isto não cabe no encaixe{0006}
+do jeito que está.
+
+### bloco 0 (0x559E0) mensagem 12
+{0000}Há algo dentro do caixão.
+
+### bloco 0 (0x559E0) mensagem 13
+{0000}Há algo aqui.
+
+### bloco 0 (0x559E0) mensagem 14
+{0000}Há um interruptor.{0006}
+Apertar?{0012}
+
+### bloco 0 (0x559E0) mensagem 15
+{0000}Esta não é hora de fazer{0006}
+isso!
+
+### bloco 0 (0x559E0) mensagem 16
+{0000}Não há mais nada aqui.
+
+### bloco 0 (0x559E0) mensagem 17
+{0000}Uma lápide em ruínas.{0006}
+Não há nome nem inscrição.
+
+### bloco 0 (0x559E0) mensagem 18
+{0000}As chamas dançam{0006}
+furiosamente.
+
+### bloco 0 (0x559E0) mensagem 19
+{0000}As chamas estão cada vez{0006}
+mais altas.{0005}{0007}Parece que vão alcançar você{0006}
+a qualquer momento...
+
+### bloco 0 (0x559E0) mensagem 20
+{0000}A corrente está se mexendo...{0006}
+Aonde será que ela leva?
+
+### bloco 0 (0x559E0) mensagem 21
+{0000}O mecanismo dentro do caixão{0006}
+começou a funcionar.

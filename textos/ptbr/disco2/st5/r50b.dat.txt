@@ -1,0 +1,5 @@
+# Arquivo: st5\r50b.dat
+
+### bloco 0 (0x10740) mensagem 0
+{0000}A porta está trancada. Não há{0006}
+como abri-la. 

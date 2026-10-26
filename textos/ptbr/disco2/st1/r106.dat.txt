@@ -1,0 +1,51 @@
+# Arquivo: st1\r106.dat
+
+### bloco 0 (0x11260) mensagem 0
+{0000}Uma urna em estilo chinês.
+
+### bloco 0 (0x11260) mensagem 1
+{0000}Uma urna em estilo chinês.
+
+### bloco 0 (0x11260) mensagem 2
+{0000}Um jarro de aparência pesada.
+
+### bloco 0 (0x11260) mensagem 3
+{0000}Uma pintura a óleo numa{0006}
+moldura grande. {0005}{0007}A tinta está seca e{0006}
+rachada.
+
+### bloco 0 (0x11260) mensagem 4
+{0000}Uma pintura a óleo numa{0006}
+moldura grande. {0005}{0007}Está bem conservada, e as{0006}
+pessoas nela ainda aparecem{0005}{0007}com nitidez.
+
+### bloco 0 (0x11260) mensagem 5
+{0000}Não dá para ver nada através{0006}
+da escuridão e da neblina.
+
+### bloco 0 (0x11260) mensagem 6
+{0000}Melhor terminar de vasculhar{0006}
+o saguão primeiro...
+
+### bloco 0 (0x11260) mensagem 7
+{0000}É perigoso demais abrir esta{0006}
+porta...
+
+### bloco 0 (0x11260) mensagem 8
+{0000}Preciso me apressar!
+
+### bloco 0 (0x11260) mensagem 9
+{0000}Há encaixes octogonais à{0006}
+direita e à esquerda da{0005}{0007}porta.
+
+### bloco 0 (0x11260) mensagem 10
+{0000}Há algo de estranho naquele{0006}
+outro encaixe...
+
+### bloco 0 (0x11260) mensagem 11
+{0000}Os dois emblemas se encaixam{0006}
+perfeitamente na porta. {0005}{0007}Abrir? {0012}
+
+### bloco 0 (0x11260) mensagem 12
+{0000}O que será que há do outro{0006}
+lado desta porta...

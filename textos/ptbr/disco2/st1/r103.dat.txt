@@ -1,0 +1,26 @@
+# Arquivo: st1\r103.dat
+
+### bloco 0 (0x69440) mensagem 0
+{0000}O cadáver do seu companheiro,{0006}
+Kenneth. {0005}{0007}Parece que a garganta dele{0006}
+foi arrancada.
+
+### bloco 0 (0x69440) mensagem 1
+{0000}Um quadro sinistro da mansão{0006}
+decora a parede.
+
+### bloco 0 (0x69440) mensagem 2
+{0000}O castiçal brilha friamente{0006}
+sob o luar.
+
+### bloco 0 (0x69440) mensagem 3
+{0000}Há um elevador aqui.{0005}{0007}Parece que não dá para{0006}
+usá-lo a partir deste andar.
+
+### bloco 0 (0x69440) mensagem 4
+{0000}Melhor avisar o Wesker...
+
+### bloco 0 (0x69440) mensagem 5
+{0000}O cadáver do seu companheiro,{0006}
+Kenneth. {0005}{0007}Parece que ele está segurando{0006}
+alguma coisa.

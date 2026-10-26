@@ -1,0 +1,35 @@
+# Arquivo: st5\r511.dat
+
+### bloco 0 (0x4440) mensagem 0
+{0000}Há uma etiqueta de aviso:{0005}{0007}“Sacudir o combustível químico{0006}
+{0011}{0046}faz ele explodir!”
+
+### bloco 0 (0x4440) mensagem 1
+{0000}O elevador principal está{0006}
+sem energia.{0005}{0007}Ligar?{0006}
+{0012}
+
+### bloco 0 (0x4440) mensagem 2
+{0000}O elevador principal está{0006}
+com energia de sobra.
+
+### bloco 0 (0x4440) mensagem 3
+{0000}O sistema não inicia.{0005}{0007}Parece precisar de algum tipo{0006}
+de combustível para ligar.
+
+### bloco 0 (0x4440) mensagem 4
+{0000}O mecanismo de autodestruição{0006}
+do laboratório. É enorme...
+
+### bloco 0 (0x4440) mensagem 5
+{0000}Rebecca está armando o{0006}
+mecanismo de autodestruição.
+
+### bloco 0 (0x4440) mensagem 6
+{0000}A autodestruição foi{0006}
+iniciada.{0005}{0007}Parece que alguém a{0006}
+acionou...
+
+### bloco 0 (0x4440) mensagem 7
+{0000}A autodestruição foi{0006}
+iniciada.

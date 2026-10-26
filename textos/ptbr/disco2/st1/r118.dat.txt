@@ -1,0 +1,14 @@
+# Arquivo: st1\r118.dat
+
+### bloco 0 (0x5140) mensagem 0
+{0000}Caixas velhas e escadinhas{0006}
+largadas de lado.
+
+### bloco 0 (0x5140) mensagem 1
+{0000}Há um lampião sobre os{0006}
+suprimentos.{0005}{0007}A luz quente faz você{0006}
+relaxar.
+
+### bloco 0 (0x5140) mensagem 2
+{0000}Parece que dá para encher o{0006}
+seu cantil de combustível{0005}{0007}com querosene.

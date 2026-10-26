@@ -1,0 +1,5 @@
+# Arquivo: st2\r219.dat
+
+### bloco 0 (0x6E4A0) mensagem 0
+{0000}A prateleira está cheia de{0006}
+objetos empoeirados e uma{0005}{0007}cabeça de cervo empalhada.

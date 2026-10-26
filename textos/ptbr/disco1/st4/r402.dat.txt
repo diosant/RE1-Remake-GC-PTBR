@@ -1,0 +1,18 @@
+# Arquivo: st4\r402.dat
+
+### bloco 0 (0x2420) mensagem 0
+{0000}Está cheia de água suja.{0005}{0007}Tirar a tampa do ralo?{0006}
+{0012}
+
+### bloco 0 (0x2420) mensagem 1
+{0000}Há algo dentro da banheira.
+
+### bloco 0 (0x2420) mensagem 2
+{0000}Papel higiênico.{0006}
+Está muito desbotado.
+
+### bloco 0 (0x2420) mensagem 3
+{0000}Um espelho bem polido.
+
+### bloco 0 (0x2420) mensagem 4
+{0000}Não há nada de especial aqui.

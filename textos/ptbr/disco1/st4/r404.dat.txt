@@ -1,0 +1,73 @@
+# Arquivo: st4\r404.dat
+
+### bloco 0 (0x40360) mensagem 0
+{0000}Algumas bolas de bilhar.{0006}
+2, 3, 4, 5, 6...{0005}{0007}A ordem não parece ter{0006}
+nada de especial, mas...
+
+### bloco 0 (0x40360) mensagem 1
+{0000}Um lampião laranja.{0006}
+Está apagado.
+
+### bloco 0 (0x40360) mensagem 2
+{0000}Um lampião vermelho.{0006}
+Está apagado.
+
+### bloco 0 (0x40360) mensagem 3
+{0000}Um lampião verde.{0006}
+Está apagado.
+
+### bloco 0 (0x40360) mensagem 4
+{0000}Uma silhueta estranha surge{0006}
+na luz laranja.{0005}{0007}Será que tem algum{0006}
+significado?
+
+### bloco 0 (0x40360) mensagem 5
+{0000}Uma silhueta estranha surge{0006}
+na luz avermelhada.{0005}{0007}Será que tem algum{0006}
+significado?
+
+### bloco 0 (0x40360) mensagem 6
+{0000}Uma silhueta estranha surge{0006}
+na luz verde.{0005}{0007}Será que tem algum{0006}
+significado?
+
+### bloco 0 (0x40360) mensagem 7
+{0000}O lampião brilha com uma luz{0006}
+laranja.
+
+### bloco 0 (0x40360) mensagem 8
+{0000}O lampião brilha com uma luz{0006}
+avermelhada.
+
+### bloco 0 (0x40360) mensagem 9
+{0000}O lampião brilha com uma luz{0006}
+verde.
+
+### bloco 0 (0x40360) mensagem 10
+{0000}Um estojo de violão.{0006}
+Está vazio.
+
+### bloco 0 (0x40360) mensagem 11
+{0000}Garrafas de vinho espalhadas{0006}
+por aí. Todas vazias.
+
+### bloco 0 (0x40360) mensagem 12
+{0000}Uma adega cheia de garrafas.{0006}
+Todas de vinho barato.
+
+### bloco 0 (0x40360) mensagem 13
+{0000}A divisória está decorada{0006}
+com pratos.
+
+### bloco 0 (0x40360) mensagem 14
+{0000}Uma jaqueta de couro. Uma{0006}
+parte foi queimada por ácido.
+
+### bloco 0 (0x40360) mensagem 15
+{0000}Um cartaz de um campeonato{0006}
+de queda de braço.{0005}{0007}“O vencedor será Chefe por{0006}
+{0011}{0046}um Dia do Departamento de{0005}{0007}Polícia de Raccoon!”
+
+### bloco 0 (0x40360) mensagem 16
+{0000}Uma pilha de barris enormes.

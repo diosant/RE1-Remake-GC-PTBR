@@ -1,0 +1,6 @@
+# Arquivo: st4\r403.dat
+
+### bloco 0 (0x3240) mensagem 0
+{0000}As prateleiras têm baldes{0006}
+e cordas.{0005}{0007}A corda parece ter sido{0006}
+cortada há pouco.

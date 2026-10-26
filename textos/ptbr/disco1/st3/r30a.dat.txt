@@ -1,0 +1,5 @@
+# Arquivo: st3\r30a.dat
+
+### bloco 0 (0xE700) mensagem 0
+{0000}Enrico está morto.{0006}
+O que será que ele sabia?

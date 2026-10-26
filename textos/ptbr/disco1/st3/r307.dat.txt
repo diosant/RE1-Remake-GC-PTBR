@@ -1,0 +1,4 @@
+# Arquivo: st3\r307.dat
+
+### bloco 0 (0x63E0) mensagem 0
+{0000}Há um buraco hexagonal aqui.

@@ -1,0 +1,5 @@
+# Arquivo: st4\r400.dat
+
+### bloco 0 (0xAE60) mensagem 0
+{0000}Um pesticida para flores.{0006}
+Parece estar vazio.

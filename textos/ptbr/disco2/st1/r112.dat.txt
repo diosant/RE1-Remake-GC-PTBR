@@ -1,0 +1,9 @@
+# Arquivo: st1\r112.dat
+
+### bloco 0 (0x52A0) mensagem 0
+{0000}Uma gaiola grande.{0005}{0007}Há um corvo morto lá dentro.
+
+### bloco 0 (0x52A0) mensagem 1
+{0000}Há um cadáver caído no chão,{0006}
+como se tivesse morrido{0005}{0007}na hora.{0005}{0007}Que diabos aconteceu nesta{0006}
+mansão?

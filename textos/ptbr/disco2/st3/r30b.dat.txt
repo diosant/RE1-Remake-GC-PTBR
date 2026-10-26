@@ -1,0 +1,9 @@
+# Arquivo: st3\r30b.dat
+
+### bloco 0 (0xB4C0) mensagem 0
+{0000}{000B}{0001}{0025}A porta está trancada e não{0006}
+abre.
+
+### bloco 0 (0xB4C0) mensagem 1
+{0000}Uma pedra enorme bloqueia o{0006}
+caminho.

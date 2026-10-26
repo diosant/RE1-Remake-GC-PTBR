@@ -1,0 +1,7 @@
+# Arquivo: st1\r115.dat
+
+### bloco 0 (0x21740) mensagem 0
+{0000}{000B}{0001}{0025}A porta não abre!
+
+### bloco 0 (0x21740) mensagem 1
+{0000}{000B}{0001}{0025}A porta não abre!

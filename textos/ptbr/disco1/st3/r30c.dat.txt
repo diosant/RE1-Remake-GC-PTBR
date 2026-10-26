@@ -1,0 +1,5 @@
+# Arquivo: st3\r30c.dat
+
+### bloco 0 (0x2F5E0) mensagem 0
+{0000}Uma enorme teia de aranha{0006}
+bloqueia a porta.

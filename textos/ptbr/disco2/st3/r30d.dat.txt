@@ -1,0 +1,8 @@
+# Arquivo: st3\r30d.dat
+
+### bloco 0 (0x3FA20) mensagem 0
+{0000}{000B}{0001}{0025}A porta está trancada e não{0006}
+abre.
+
+### bloco 0 (0x3FA20) mensagem 1
+{0000}Algum tipo de gancho mecânico.{0005}{0007}Não há nada nele agora.

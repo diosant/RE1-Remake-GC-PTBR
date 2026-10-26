@@ -1,0 +1,35 @@
+# Arquivo: st1\r11b.dat
+
+### bloco 0 (0x14AC0) mensagem 0
+{0000}Delete
+
+### bloco 0 (0x14AC0) mensagem 1
+{0000}Uma seleção de ferramentas{0006}
+de jardinagem.{0005}{0007}Não parece haver nada{0006}
+de útil.
+
+### bloco 0 (0x14AC0) mensagem 2
+{0000}Vasos variados e uma caixa{0006}
+de ferramentas.
+
+### bloco 0 (0x14AC0) mensagem 3
+{0000}“Use isto para se proteger{0006}
+{0011}{0046}do monstro acorrentado que{0005}{0007}não sente as balas.{0006}
+Também consertei a maçaneta{0005}{0007}para você poder fugir.”  {0006}
+                            -Wesker-
+
+### bloco 0 (0x14AC0) mensagem 4
+{0000}“Use esta coisa para se{0006}
+{0011}{0046}proteger daquele bicho{0005}{0007}acorrentado à prova de bala.{0006}
+Aproveitei e consertei aquela{0005}{0007}porcaria de porta também.”{0006}
+                              -Barry-
+
+### bloco 0 (0x14AC0) mensagem 5
+{0000}“Use isto para se proteger{0006}
+{0011}{0046}do monstro acorrentado{0005}{0007}à prova de bala.”{0006}
+                            -Wesker-
+
+### bloco 0 (0x14AC0) mensagem 6
+{0000}“Use esta coisa para se{0006}
+{0011}{0046}proteger daquele bicho{0005}{0007}acorrentado à prova de bala.”{0006}
+                            -Barry-

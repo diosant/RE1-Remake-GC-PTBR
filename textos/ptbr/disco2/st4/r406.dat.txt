@@ -1,0 +1,17 @@
+# Arquivo: st4\r406.dat
+
+### bloco 0 (0x49A0) mensagem 0
+{0000}Há uma escada aqui.{0006}
+Descer?{0012}
+
+### bloco 0 (0x49A0) mensagem 1
+{0000}Esta camisa está encharcada{0006}
+de sangue.
+
+### bloco 0 (0x49A0) mensagem 2
+{0000}Não há nada de especial.
+
+### bloco 0 (0x49A0) mensagem 3
+{0000}Jornais e revistas velhos{0006}
+estão sobre a cama.{0005}{0007}Parece que alguém vomitou{0006}
+sangue em alguns dos{0005}{0007}jornais.

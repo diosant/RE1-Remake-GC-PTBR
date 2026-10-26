@@ -1,0 +1,9 @@
+# Arquivo: st4\r401.dat
+
+### bloco 0 (0x40C0) mensagem 0
+{0000}Uma estante antiga.{0005}{0007}Os livros tratam quase{0006}
+todos de literatura{0005}{0007}e filosofia.
+
+### bloco 0 (0x40C0) mensagem 1
+{0000}Esta cama mostra sinais de{0006}
+ter sido usada.
