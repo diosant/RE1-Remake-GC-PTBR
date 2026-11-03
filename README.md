@@ -71,3 +71,7 @@ Encontrou um erro de tradução, texto cortado ou letra estranha? Abra uma [issu
 
 - Tradução, scripts e testes no Wii U: **Mah** ([@diosant](https://github.com/diosant)), com a ajuda do Claude (Anthropic).
 - *Resident Evil* é marca registrada da Capcom. Todos os direitos do jogo pertencem à Capcom.
+
+## Licença
+
+Os scripts, a documentação e a tradução deste repositório estão sob a [licença MIT](LICENSE): você pode usar, adaptar e redistribuir, desde que mantenha o aviso de crédito. A licença não cobre o jogo nem os arquivos dele, que pertencem à Capcom.
